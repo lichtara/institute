@@ -1,5 +1,7 @@
 # Instituto Lichtara
 
+[![Dados Sintéticos](https://img.shields.io/badge/dados-sint%C3%A9ticos-blue)](#licen%C3%A7a)
+
 Repositório inicial do Instituto Lichtara para pesquisa em BioRegulação Harmônica (BRH), governança ética e colaboração interdisciplinar.
 
 ## Propósito

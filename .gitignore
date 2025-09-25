@@ -24,3 +24,5 @@ Thumbs.db
 # Data staging (não versionar dados reais)
 data/raw/
 data/private/
+notion_export/
+Notion Export*/

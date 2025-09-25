@@ -36,3 +36,4 @@ Objetivo: exportar dados do Notion, validar contra schemas, anonimizar e disponi
 ## Próximos passos
 - Considerar Makefile simples com tarefas `validate` e `samples`
 - Criar script Python para validação utilizando `jsonschema`
+  - Comando disponível: `make validate`

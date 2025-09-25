@@ -1,0 +1,5 @@
+Indicador,Sessão,Valor,Unidade,Janela temporal,Método de medição,Observações
+"Coerência percebida","Sessão BRH — Ciclo de Teste 01",7,"0–10","Imediato","Auto-relato + observação corporal","Calor no peito; clareza"
+"Assentimento corporal","Sessão BRH — Ciclo de Teste 01",8,"0–10","24h","Check-in corporal","Sono mais profundo; direção clara"
+"Coerência percebida","Sessão BRH — V-Tone 01",6,"0–10","Imediato","Auto-relato","Estável, porém com ruídos externos"
+"Assentimento corporal","Sessão BRH — V-Tone 01",7,"0–10","7d","Check-in semanal","Aumento de vigor ao acordar"

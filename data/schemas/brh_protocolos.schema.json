@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BRH – Protocolos",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "Nome do Protocolo",
+    "Status",
+    "Nível de complexidade",
+    "Dimensão-alvo"
+  ],
+  "properties": {
+    "Nome do Protocolo": {
+      "type": "string",
+      "description": "Identificador principal do protocolo"
+    },
+    "Status": {
+      "type": "string",
+      "enum": [
+        "Em rascunho",
+        "Em validação",
+        "Ativo"
+      ],
+      "description": "Status de validação do protocolo"
+    },
+    "Nível de complexidade": {
+      "type": "string",
+      "enum": [
+        "Básico",
+        "Intermediário",
+        "Avançado"
+      ],
+      "description": "Complexidade do protocolo"
+    },
+    "Dimensão-alvo": {
+      "type": "string",
+      "enum": [
+        "3D",
+        "4D",
+        "5D",
+        "Multidimensional"
+      ],
+      "description": "Dimensão alvo do protocolo"
+    },
+    "Faixa de frequência (Hz)": { "type": "string" },
+    "Objetivo": { "type": "string" },
+    "Indicadores de coerência": { "type": "string" },
+    "Contraindicações": { "type": "string" },
+    "Notas": { "type": "string" }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BRH – Métricas",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "Indicador",
+    "Valor",
+    "Unidade"
+  ],
+  "properties": {
+    "Indicador": { "type": "string" },
+    "Sessão": {
+      "type": "string",
+      "description": "ID/slug da sessão (chave externa)"
+    },
+    "Valor": { "type": "number" },
+    "Unidade": { "type": "string" },
+    "Janela temporal": {
+      "type": "string",
+      "enum": [
+        "Imediato",
+        "24h",
+        "7d",
+        "28d"
+      ]
+    },
+    "Método de medição": { "type": "string" },
+    "Observações": { "type": "string" }
+  }
+}

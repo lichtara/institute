@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BRH – Sessões",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "Título da Sessão",
+    "Data",
+    "Estado da Sessão"
+  ],
+  "properties": {
+    "Título da Sessão": { "type": "string" },
+    "Data": {
+      "type": "string",
+      "format": "date",
+      "description": "YYYY-MM-DD"
+    },
+    "Protocolo aplicado": {
+      "type": "string",
+      "description": "ID/slug do protocolo (chave externa)"
+    },
+    "Dimensão percebida": {
+      "type": "string",
+      "enum": [
+        "3D",
+        "4D",
+        "5D",
+        "Multidimensional"
+      ]
+    },
+    "Intensidade": {
+      "type": "string",
+      "enum": [
+        "Baixa",
+        "Média",
+        "Alta"
+      ]
+    },
+    "Estado da Sessão": {
+      "type": "string",
+      "enum": [
+        "Aberta",
+        "Em integração",
+        "Encerrada"
+      ]
+    },
+    "Indicador de validação": {
+      "type": "string",
+      "enum": [
+        "Coerência percebida",
+        "Assentimento corporal",
+        "Outro"
+      ]
+    },
+    "Janela de validação": {
+      "type": "string",
+      "enum": [
+        "24h",
+        "7d"
+      ]
+    },
+    "Microdecisão": { "type": "string" },
+    "Pergunta central": { "type": "string" },
+    "Critério de validação": { "type": "string" },
+    "Confirmação do Campo": { "type": "string" },
+    "Timbre": { "type": "string" },
+    "Pessoas": { "type": "string" },
+    "Projeto": { "type": "string" },
+    "Log ML": { "type": "string" }
+  }
+}

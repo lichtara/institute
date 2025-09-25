@@ -7,6 +7,7 @@
 - [Manual Organizacional – Estrutura Definitiva](manual-organizacional.md)
 - [Manual Geral do Sistema Lichtara](manual-sistema-lichtara.md)
 - [Manual de Formação Lichtara](manual-formacao-lichtara.md)
+- [Manual de Equipe Multidimensional](manual-equipe-multidimensional.md)
 - [Governança ética](governance.md)
 - [Política de dados](data-policy.md)
 - [Diretrizes de segurança](safety-guidelines.md)

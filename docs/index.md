@@ -9,6 +9,12 @@ Bem-vinda(o) à documentação do Instituto Lichtara. Este índice organiza os m
 - [docs/manual-sistema-lichtara.md](./manual-sistema-lichtara.md) — Lichtara OS (arquitetura e protocolos)
 - [docs/manual-formacao-lichtara.md](./manual-formacao-lichtara.md) — Formação e certificação
 - [docs/manual-equipe-multidimensional.md](./manual-equipe-multidimensional.md) — Operações de equipe
+- [docs/estatuto-basico.md](./estatuto-basico.md) — Estatuto básico institucional
+- [docs/privacy-policy.md](./privacy-policy.md) — Política de privacidade
+- [docs/term-contribuicao-vibracional.md](./term-contribuicao-vibracional.md) — Termo de contribuição vibracional
+- [docs/regimento-interno.md](./regimento-interno.md) — Regimento interno
+- [docs/legal-disclaimer.md](./legal-disclaimer.md) — Aviso legal e isenção de responsabilidade
+- [docs/terms-of-use.md](./terms-of-use.md) — Termos de uso
 
 ## Governança e ética
 - [docs/governance.md](./governance.md) — Governança, ética e segurança

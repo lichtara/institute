@@ -1,4 +1,6 @@
 .PHONY: validate
 
+PYTHON ?= python3
+
 validate:
-	python tools/validate_brh.py
+	$(PYTHON) tools/validate_brh.py

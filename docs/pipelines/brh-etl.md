@@ -17,8 +17,9 @@ Objetivo: exportar dados do Notion, validar contra schemas, anonimizar e disponi
    - Validar CSVs com os JSON Schemas em `data/schemas/*`
    - Rejeitar linhas com enums inválidos ou datas fora do padrão
 5. **Publicação sintética**
-   - Gerar `data/samples/*.csv` com subconjuntos e dados sintéticos
-   - Nunca commitar dados reais
+ - Gerar `data/samples/*.csv` com subconjuntos e dados sintéticos
+  - Nunca commitar dados reais
+  - Registrar resultados de certificação em `docs/certification/states/checks.csv`
 6. **Consumo**
    - `analysis/notebooks/*` consome samples e schemas
    - Dashboards utilizam agregados sem PII

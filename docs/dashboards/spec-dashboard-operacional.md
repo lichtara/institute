@@ -10,7 +10,7 @@ Objetivo: visibilidade de fluxo de trabalho, conformidade e prazos.
 
 ## Fontes
 - GitHub issues/PRs
-- `docs/certification/` registros de checklists (YAML/CSV)
+- `docs/certification/states/checks.csv`
 - CI pipelines (status)
 
 ## Atualização

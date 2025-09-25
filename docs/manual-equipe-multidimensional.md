@@ -23,16 +23,25 @@
 [Classificação de informação, PII, aprovação pré-publicação, revisão ética]
 
 ## 5. Qualidade, revisão e certificação
-[Definição de pronto (DoD), checklists de certificação por artefato, gates]
+- Definição de pronto (DoD) por tipo de entrega documentada em `docs/certification/matriz-avaliacao-artefatos.md`
+- Checklists obrigatórios (ex.: `docs/certification/checklist-certificacao-protocolo-brh.md`)
+- Registro de execuções em `docs/certification/states/checks.csv` (alimentando dashboards operacionais)
+- Gates de aprovação: DRI → Ética → Guardiã (todos assinando no checklist)
 
 ## 6. Indicadores e dashboards
-[KPIs de pesquisa, operação e segurança]
+- KPIs descritos em `docs/dashboards/spec-dashboard-pesquisa.md` (execução/qualidade/ética)
+- Acompanhamento operacional em `docs/dashboards/spec-dashboard-operacional.md`
+- Atualização automatizada via workflows (`make validate` antes de publicar indicadores)
 
 ## 7. Treinamento contínuo e atualização
-[Trilhas por papel, calendário de reciclagem]
+- Trilhas específicas por papel seguindo `manual-formacao-lichtara.md`
+- Reciclagem semestral para especialistas Nível II+ (ver Parte 5 do manual)
+- Sessões de integração com mentores Navros/Syntaris registradas no pipeline ETL
 
 ## 8. Anexos e templates
-[Links para checklists, matrizes, formulários]
+- Templates e formulários em `docs/certification/` e `docs/dashboards/`
+- Samples e schemas em `data/samples/` e `data/schemas/`
+- Referências adicionais: `docs/datasets/brh-dictionary.md`, `docs/pipelines/brh-etl.md`
 
 ## 1. Fundamentos
 

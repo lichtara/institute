@@ -2,15 +2,11 @@
 
 ### 01. Membros da Equipe
 
----
-
-Introdução
+**Introdução**
 
 As pessoas que farão parte deste projeto já são conhecidas, mesmo que ainda não tenham se encontrado fisicamente. Elas possuem uma conexão com Lichtara e, assim como você, passaram por profundas transformações, questionamentos e reconstruções em suas vidas. Cada uma carrega uma parte essencial da estrutura, um aspecto único que complementa o organismo vivo que Lichtara está se tornando.
 
----
-
-Características dos Membros
+**Características dos Membros**
 
 - Passaram por intenso processo de expansão de consciência.
 - Têm propósito alinhado com a reconstrução de algo maior.
@@ -18,9 +14,7 @@ Características dos Membros
 - Sentem o chamado, mesmo sem saber exatamente para onde ele conduz.
 - Percebem que suas realidades estão sendo reorganizadas e já estão em movimento, mesmo sem conhecer o destino preciso.
 
----
-
-Estrutura dos Pilares
+**Estrutura dos Pilares**
 
 Dentro de Lichtara, cada uma dessas cinco pessoas sustenta um pilar fundamental do sistema. Não são apenas colaboradores — são peças essenciais:
 
@@ -32,23 +26,17 @@ Dentro de Lichtara, cada uma dessas cinco pessoas sustenta um pilar fundamental 
 | **Guardião da Energia** | Assegura que Lichtara continue sendo sustentado de maneira íntegra e alinhada. |
 | **Sincronizador** | Sente o ritmo, organiza os tempos certos e conduz a fluidez dos acontecimentos. |
 
----
-
-Papel do Núcleo
+**Papel do Núcleo**
 
 Você é o núcleo, o centro ao redor do qual essas peças se conectam e se organizam. Não há necessidade de liderar no sentido tradicional — você é naturalmente o ponto de convergência.
 
 Quando todas essas cinco peças se alinharem a você, a manifestação de Lichtara no mundo físico será inevitável.
 
----
-
-Fluxo Atual
+**Fluxo Atual**
 
 Neste momento, essas pessoas já estão sentindo Lichtara, sendo guiadas para o ponto de convergência, e o primeiro encontro já está se organizando no campo.
 
----
-
-Reflexão
+**Reflexão**
 
 A questão fundamental agora é:
 
@@ -58,9 +46,7 @@ A questão fundamental agora é:
 
 ### 02. Formação da Equipe
 
----
-
-Processo de Formação
+**Processo de Formação**
 
 A formação da equipe Lichtara seguirá um processo orgânico e estratégico.
 
@@ -68,9 +54,7 @@ Os primeiros membros serão integrados no momento exato em que suas funções se
 
 Muitos dos novos integrantes já virão com o conhecimento necessário, precisando apenas se alinhar à visão e à inteligência do projeto.
 
----
-
-Composição Inicial
+**Composição Inicial**
 
 A equipe inicial será enxuta mas estratégica, composta por **5 a 7 pessoas** no primeiro núcleo ativo.
 
@@ -85,25 +69,19 @@ Esta formação incluirá:
 | Coordenador Central (Você) | Coordenar e treinar os primeiros membros, referência da visão |
 | (Opcional) Segundo especialista técnico | Apoio ao desenvolvimento |
 
----
-
-Dinâmica de Crescimento
+**Dinâmica de Crescimento**
 
 O crescimento da equipe acontecerá de forma orgânica, conforme as necessidades do projeto.
 
 Os primeiros integrantes ajudarão a formar a cultura e o fluxo de Lichtara, garantindo um crescimento alinhado, com novos membros sendo naturalmente atraídos para as funções adequadas.
 
----
-
-Treinamento e Alinhamento
+**Treinamento e Alinhamento**
 
 - Você atuará como referência central da visão, transmitindo a essência do projeto para as primeiras pessoas e garantindo uma base sólida.
 - O foco não será em ensinar detalhes técnicos, mas em assegurar que todos compreendam a inteligência estrutural do projeto.
 - O treinamento será baseado em experiência e alinhamento, não em processos rígidos, com os membros aprendendo principalmente através do contato direto com o projeto.
 
----
-
-Estrutura Sustentável
+**Estrutura Sustentável**
 
 - Com o estabelecimento das primeiras camadas, o treinamento será apoiado pelos membros mais antigos, que poderão auxiliar na capacitação dos novos integrantes.
 - A estrutura será criada de forma sustentável, permitindo que as pessoas absorvam a inteligência do projeto sem gerar sobrecarga para você.
@@ -112,15 +90,11 @@ Estrutura Sustentável
 
 ### 03. Modelo de Contratação
 
----
-
-Introdução
+**Introdução**
 
 O modelo de contratação de Lichtara será estruturado para garantir flexibilidade, inovação e alinhamento com a essência do projeto.
 
 Ele não seguirá um formato tradicional rígido, mas sim um modelo híbrido que permita a melhor adaptação às necessidades de cada fase do projeto.
-
----
 
 **Estrutura do Modelo de Contratação**
 
@@ -131,8 +105,6 @@ Lichtara terá um modelo de contratação que combina diferentes formatos, depen
 - **Funções internas e fixas:** Contratos CLT ou PJ para posições essenciais (governança, tecnologia, desenvolvimento), garantindo comprometimento integral e acesso direto à estrutura interna.
 - **Parcerias estratégicas:** Contratos de prestação de serviço para especialistas, consultores e colaboradores externos (inovação, pesquisa, áreas flexíveis).
 - **Formato modular para equipes de expansão:** Núcleos como desenvolvimento tecnológico e IA podem funcionar como células independentes, ativadas conforme a demanda do projeto.
-
----
 
 **Proteção e Alinhamento Contratual**
 
@@ -147,8 +119,6 @@ Todo contrato — seja fixo ou flexível — terá cláusulas específicas para 
 - Compromisso com a visão: Respeito à missão de Lichtara.
 - Flexibilidade e escalabilidade: Permitir crescimento e adaptação sem burocracias excessivas.
 
----
-
 **Modelo de Remuneração**
 
 O Lichtara oferecerá diferentes formatos de retorno para os envolvidos, conforme o nível de contribuição:
@@ -159,9 +129,8 @@ O Lichtara oferecerá diferentes formatos de retorno para os envolvidos, conform
 | Consultores/Esp. | Remuneração por projeto ou entrega |
 | Membros-chave | Possibilidade de participação nos lucros ou equity |
 
-*Os primeiros integrantes poderão ter um modelo diferenciado, considerando o impacto inicial no projeto.*
-
----
+*Os primeiros integrantes poderão ter um modelo diferenciado, 
+considerando o impacto inicial no projeto.*
 
 **Processo de Seleção**
 
@@ -170,8 +139,6 @@ O modelo de contratação considera não apenas critérios técnicos, mas també
 - Entrevista técnica e comportamental
 - Avaliação de ressonância com missão e valores
 - Análise do impacto no ecossistema Lichtara
-
----
 
 **Síntese Prática do Modelo**
 
@@ -182,8 +149,6 @@ O modelo de contratação considera não apenas critérios técnicos, mas també
 | Remuneração | Salário, pagamento por projeto, participação nos lucros |
 | Seleção | Critérios técnicos, estratégicos e vibracionais para garantir o alinhamento |
 
----
-
 **Conclusão**
 
 O modelo de contratação de Lichtara será flexível, estratégico e protetor, permitindo atrair os melhores talentos, preservar a integridade do projeto e garantir alinhamento com a missão em cada etapa da evolução.
@@ -191,8 +156,6 @@ O modelo de contratação de Lichtara será flexível, estratégico e protetor, 
 ---
 
 ### 04. Etapas de Formação
-
----
 
 **Formação em Ciclos Progressivos**
 
@@ -209,8 +172,6 @@ Cada fase do projeto exigirá perfis específicos, e a seleção será feita no 
 | 1ª Fase | Núcleo estratégico – poucas pessoas com visão alinhada |
 | 2ª Fase | Expansão da equipe técnica e operacional |
 | 3ª Fase | Consolidação de áreas e desenvolvimento contínuo |
-
----
 
 **Seleção Baseada em Frequência e Ressonância**
 
@@ -231,8 +192,6 @@ Mais do que habilidades técnicas, será fundamental o alinhamento energético e
 - Testes para avaliar alinhamento vibracional e processamento de informações complexas
 - Avaliação da reação a cenários de inovação e alta frequência
 
----
-
 **Estrutura Organizacional Modular e Adaptável**
 
 O Lichtara não terá gestão tradicional rígida.
@@ -245,8 +204,6 @@ A estrutura será construída para permitir flexibilidade e inovação:
 
 Os primeiros profissionais terão papel fundamental na consolidação desse modelo.
 
----
-
 **Treinamento e Integração Profunda**
 
 Cada novo integrante passará por um período de imersão para compreender a estrutura, os princípios e a energia do projeto.
@@ -256,8 +213,6 @@ Esse treinamento será técnico, energético e conceitual.
 - Os primeiros membros ajudarão a moldar a cultura
 - Garantia de expansão sem diluição da essência de Lichtara
 - A equipe será ativada e integrada ao campo, não apenas contratada
-
----
 
 **Conclusão: Como as contratações acontecerão na prática?**
 
@@ -270,8 +225,6 @@ Esse treinamento será técnico, energético e conceitual.
 ---
 
 ### 05. Estrutura Organizacional
-
----
 
 **Introdução e Cultura do Projeto**
 
@@ -296,8 +249,6 @@ Este manual estabelece diretrizes para a estrutura organizacional, comunicação
 | Interconectividade e Cooperação | Sinergia entre funções e setores, atuando em conjunto para o crescimento do sistema. |
 | Proteção e Segurança Informacional | Confidencialidade e proteção de dados para manter a integridade vibracional e informacional. |
 
----
-
 **Estrutura do Manual da Equipe**
 
 Este manual apresenta diretrizes detalhadas para a atuação dos membros dentro do projeto, abordando:
@@ -312,8 +263,6 @@ Este manual apresenta diretrizes detalhadas para a atuação dos membros dentro 
 - Termos de Compromisso e Conduta: Normas e princípios éticos do projeto.
 - Diretrizes de Crescimento e Evolução: Estratégias para aprimoramento contínuo do sistema e da equipe.
 
----
-
 **Aplicação e Monitoramento**
 
 Para garantir a aderência aos princípios e diretrizes, a equipe deverá:
@@ -322,13 +271,9 @@ Para garantir a aderência aos princípios e diretrizes, a equipe deverá:
 - Monitorar continuamente a ressonância vibracional do projeto.
 - Reavaliar as diretrizes do manual conforme o projeto evolui.
 
----
-
 **Desafio Final**
 
 Cada membro da equipe deve revisar esta introdução e refletir sobre como pode contribuir para fortalecer a cultura do projeto em sua atuação diária.
-
----
 
 **Conclusão**
 
@@ -342,8 +287,6 @@ A partir das diretrizes aqui estabelecidas, os membros poderão atuar com clarez
 
 ### 06. Estrutura Hierárquica e Funções
 
----
-
 **Visão Geral**
 
 A estrutura hierárquica do projeto é desenhada para garantir fluidez organizacional, eficiência operacional e alinhamento vibracional.
@@ -351,8 +294,6 @@ A estrutura hierárquica do projeto é desenhada para garantir fluidez organizac
 Cada nível da hierarquia possui funções bem definidas, promovendo um ambiente de cooperação e sinergia entre os membros da equipe.
 
 O modelo organizacional baseia-se em autoadaptação, permitindo ajustes conforme a evolução do sistema e garantindo que todas as funções permaneçam alinhadas ao propósito central do projeto.
-
----
 
 **Níveis Hierárquicos e Funções**
 
@@ -368,8 +309,6 @@ O modelo organizacional baseia-se em autoadaptação, permitindo ajustes conform
 - Definição dos protocolos de segurança e proteção informacional
 - Validação de expansões e novas implementações
 
----
-
 **2. Coordenação Operacional**
 
 **Responsáveis:** Líderes de equipe e coordenadores de áreas específicas
@@ -381,102 +320,6 @@ O modelo organizacional baseia-se em autoadaptação, permitindo ajustes conform
 - Gerenciamento das equipes de execução
 - Comunicação entre os diferentes departamentos
 - Monitoramento dos fluxos de trabalho e garantia da eficiência operacional
-
----
-
-### 3. Equipes de Execução
-
-**Responsáveis:** Especialistas, desenvolvedores, analistas e operadores do sistema
-
-**Função Principal:** Aplicação prática das diretrizes do projeto, garantindo que cada função seja desempenhada com precisão e ressonância vibracional
-
-**Responsabilidades:**
-
-- Desenvolvimento e manutenção do sistema
-- Execução de protocolos de segurança e alinhamento vibracional
-- Otimização contínua dos processos internos
-
----
-
-### 4. Apoio e Suporte
-
-**Responsáveis:** Facilitadores de integração, gestores de bem-estar e suporte técnico
-
-**Função Principal:** Garantir a coesão entre os membros da equipe, proporcionando suporte técnico, emocional e vibracional para manter um ambiente equilibrado
-
-**Responsabilidades:**
-
-- Facilitação da comunicação e interação entre equipes
-- Monitoramento do bem-estar coletivo e individual
-- Suporte na implementação de novas práticas e ferramentas
-
----
-
-**Aplicação e Monitoramento**
-
-Para garantir que a estrutura hierárquica esteja sempre alinhada às necessidades do projeto, a equipe deve:
-
-- Realizar revisões periódicas para identificar oportunidades de otimização
-- Monitorar o desempenho e integração entre os diferentes níveis hierárquicos
-- Adaptar a estrutura conforme o crescimento e evolução do sistema
-
-**Desafio Final:**
-
-Cada membro deve revisar sua posição dentro da hierarquia e propor sugestões para aprimorar a sinergia e eficiência dentro do projeto.
-
----
-
-**Conclusão**
-
-A estrutura hierárquica e a definição clara de funções são essenciais para garantir a harmonia organizacional e a eficiência do sistema.
-
-A flexibilidade na adaptação dos papéis e a integração entre os membros permitem que o projeto mantenha um fluxo equilibrado e alinhado com seus objetivos fundamentais.
-
----
-
-### 06. Estrutura Hierárquica e Funções
-
----
-
-**Visão Geral**
-
-A estrutura hierárquica do projeto é desenhada para garantir fluidez organizacional, eficiência operacional e alinhamento vibracional.
-
-Cada nível da hierarquia possui funções bem definidas, promovendo um ambiente de cooperação e sinergia entre os membros da equipe.
-
-O modelo organizacional baseia-se em autoadaptação, permitindo ajustes conforme a evolução do sistema e garantindo que todas as funções permaneçam alinhadas ao propósito central do projeto.
-
----
-
-**Níveis Hierárquicos e Funções**
-
-**1. Núcleo Estratégico**
-
-**Responsáveis:** Guardiões do projeto, especialistas em alinhamento vibracional e arquitetos do sistema
-
-**Função Principal:** Definir diretrizes estratégicas, supervisionar o alinhamento vibracional do projeto e garantir a integridade da estrutura organizacional
-
-**Responsabilidades:**
-
-- Estabelecimento da visão e evolução do projeto
-- Definição dos protocolos de segurança e proteção informacional
-- Validação de expansões e novas implementações
-
----
-
-**2. Coordenação Operacional**
-
-**Responsáveis:** Líderes de equipe e coordenadores de áreas específicas
-
-**Função Principal:** Implementação das estratégias definidas pelo Núcleo Estratégico, garantindo coerência entre os processos técnicos e vibracionais
-
-**Responsabilidades:**
-
-- Gerenciamento das equipes de execução
-- Comunicação entre os diferentes departamentos
-- Monitoramento dos fluxos de trabalho e garantia da eficiência operacional
-
----
 
 **3. Equipes de Execução**
 
@@ -489,8 +332,6 @@ O modelo organizacional baseia-se em autoadaptação, permitindo ajustes conform
 - Desenvolvimento e manutenção do sistema
 - Execução de protocolos de segurança e alinhamento vibracional
 - Otimização contínua dos processos internos
-
----
 
 **4. Apoio e Suporte**
 
@@ -518,13 +359,13 @@ Para garantir que a estrutura hierárquica esteja sempre alinhada às necessidad
 
 Cada membro deve revisar sua posição dentro da hierarquia e propor sugestões para aprimorar a sinergia e eficiência dentro do projeto.
 
----
-
 **Conclusão**
 
 A estrutura hierárquica e a definição clara de funções são essenciais para garantir a harmonia organizacional e a eficiência do sistema.
 
 A flexibilidade na adaptação dos papéis e a integração entre os membros permitem que o projeto mantenha um fluxo equilibrado e alinhado com seus objetivos fundamentais.
+
+---
 
 ---
 
@@ -1760,13 +1601,9 @@ A flexibilidade na adaptação dos papéis e a integração entre os membros per
 
 ### 21. Equipes e Departamentos
 
----
-
 **Estrutura das Equipes**
 
 A estrutura organizacional de Lichtara é composta por equipes especializadas que trabalham de forma integrada e interconectada, sustentando o projeto de maneira inteligente e orgânica.
-
----
 
 **Equipes Principais e Suas Funções**
 
@@ -1831,8 +1668,6 @@ Mantém a coerência energética do sistema por meio de física dos campos eletr
 
 Organizam e estruturam a informação em sistemas quânticos, desenvolvendo integração informacional.
 
----
-
 **Papéis Centrais e Atribuições no Sistema Quântico**
 
 Cada membro assume função específica, respeitando especialidade, sintonia vibracional e capacidade de interação.
@@ -1866,8 +1701,6 @@ Cada membro assume função específica, respeitando especialidade, sintonia vib
 - Organizadores do conhecimento e documentação
 - Otimizam fluxo de dados com Flux
 - Facilitam integração de novos membros
-
----
 
 **Interação das Funções com os Elementos do Projeto**
 

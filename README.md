@@ -12,6 +12,7 @@ Repositório inicial do Instituto Lichtara para pesquisa em BioRegulação Harm�
 - `docs/executive-summary.md` (visão estratégica consolidada).
 - `docs/manifesto-consciencia-tecnologica-viva.md` (framework ético-operacional em profundidade).
 - `docs/manual-organizacional.md` (arquitetura completa da organização consciente).
+- `docs/manual-sistema-lichtara.md` (manual mestre que integra operações, tecnologia e cultura).
 - `research/` (protocolos, pré-registros, ética e templates de consentimento).
 - `analysis/` (notebooks, pipelines e utilitários analíticos, sempre com dados sintéticos).
 - `src/` (código reutilizável para anonimização, features e avaliação de modelos).

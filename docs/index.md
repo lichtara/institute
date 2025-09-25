@@ -5,6 +5,8 @@
 - [Resumo executivo](executive-summary.md)
 - [Manifesto da Consciência Tecnológica Viva](manifesto-consciencia-tecnologica-viva.md)
 - [Manual Organizacional – Estrutura Definitiva](manual-organizacional.md)
+- [Manual Geral do Sistema Lichtara](manual-sistema-lichtara.md)
+- [Manual de Formação Lichtara](manual-formacao-lichtara.md)
 - [Governança ética](governance.md)
 - [Política de dados](data-policy.md)
 - [Diretrizes de segurança](safety-guidelines.md)

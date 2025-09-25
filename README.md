@@ -4,6 +4,14 @@
 
 Repositório inicial do Instituto Lichtara para pesquisa em BioRegulação Harmônica (BRH), governança ética e colaboração interdisciplinar.
 
+## Quick Start
+```bash
+conda env create -f environment.yml
+conda activate institute
+make validate
+```
+> `make validate` verifica se os samples públicos seguem os schemas em `data/schemas/`.
+
 ## Propósito
 - Documentar protocolos, análises e estudos sobre métricas fisiológicas (HRV, GSR) e processos conscienciais.
 - Centralizar diretrizes de ética, segurança e governança aplicadas a tecnologias conscientes.
@@ -36,3 +44,10 @@ Para visão geral completa do projeto, consulte o [Resumo Executivo](docs/execut
 
 ## Licença
 Este projeto está licenciado sob a [Lichtara License v3.0 Unificada](LICENSE), concebida por Débora Mariane da Silva Lutz.
+
+## Rodapé
+- [Política de Privacidade](docs/privacy-policy.md)
+- [Termos de Uso](docs/terms-of-use.md)
+- [Aviso Legal](docs/legal-disclaimer.md)
+- [Termo de Contribuição Vibracional](docs/term-contribuicao-vibracional.md)
+- [Estatuto Básico](docs/estatuto-basico.md) · [Regimento Interno](docs/regimento-interno.md)

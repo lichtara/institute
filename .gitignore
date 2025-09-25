@@ -1,0 +1,26 @@
+# Environments
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Builds & metadata
+build/
+dist/
+*.egg-info/
+.coverage
+htmlcov/
+
+# Notebooks & caches
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Data staging (não versionar dados reais)
+data/raw/
+data/private/

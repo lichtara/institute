@@ -38,3 +38,14 @@ Objetivo: exportar dados do Notion, validar contra schemas, anonimizar e disponi
 - Considerar Makefile simples com tarefas `validate` e `samples`
 - Criar script Python para validação utilizando `jsonschema`
   - Comando disponível: `make validate`
+
+---
+
+## Rodapé
+- [Política de Privacidade](../privacy-policy.md)
+- [Termos de Uso](../terms-of-use.md)
+- [Aviso Legal](../legal-disclaimer.md)
+- [Termo de Contribuição Vibracional](../term-contribuicao-vibracional.md)
+- [Estatuto Básico](../estatuto-basico.md) · [Regimento Interno](../regimento-interno.md)
+- [Lichtara License v3.0 Unificada](../../LICENSE)
+

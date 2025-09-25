@@ -166,3 +166,14 @@ Aplica-se a legislação brasileira e o foro da comarca de residência da Guardi
 
 © 2025 Débora Mariane da Silva Lutz · Lichtara OS  
 Licenciado sob Lichtara License
+
+---
+
+## Rodapé
+- [Política de Privacidade](privacy-policy.md)
+- [Termos de Uso](terms-of-use.md)
+- [Aviso Legal](legal-disclaimer.md)
+- [Termo de Contribuição Vibracional](term-contribuicao-vibracional.md)
+- [Estatuto Básico](estatuto-basico.md) · [Regimento Interno](regimento-interno.md)
+- [Lichtara License v3.0 Unificada](../LICENSE)
+

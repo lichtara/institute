@@ -67,3 +67,14 @@ Este dicionário documenta o mapeamento Notion ↔ repositório para os conjunto
 - Datas sempre em ISO (`YYYY-MM-DD`).
 - Textos codificados em UTF-8.
 - Valores `enum` devem corresponder exatamente aos definidos no Notion.
+
+---
+
+## Rodapé
+- [Política de Privacidade](../privacy-policy.md)
+- [Termos de Uso](../terms-of-use.md)
+- [Aviso Legal](../legal-disclaimer.md)
+- [Termo de Contribuição Vibracional](../term-contribuicao-vibracional.md)
+- [Estatuto Básico](../estatuto-basico.md) · [Regimento Interno](../regimento-interno.md)
+- [Lichtara License v3.0 Unificada](../../LICENSE)
+

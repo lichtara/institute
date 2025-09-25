@@ -12,3 +12,14 @@
 Pontuação final = soma(Nota × Peso)
 
 Gate mínimo de aprovação sugerido: 3.5/5
+
+---
+
+## Rodapé
+- [Política de Privacidade](../privacy-policy.md)
+- [Termos de Uso](../terms-of-use.md)
+- [Aviso Legal](../legal-disclaimer.md)
+- [Termo de Contribuição Vibracional](../term-contribuicao-vibracional.md)
+- [Estatuto Básico](../estatuto-basico.md) · [Regimento Interno](../regimento-interno.md)
+- [Lichtara License v3.0 Unificada](../../LICENSE)
+

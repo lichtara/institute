@@ -674,3 +674,14 @@ Selo de Integridade: estrutura validada e processos testados 🏢✨
 - Planejamento estratégico para os próximos cinco anos.
 
 A implementação desta estrutura representa uma jornada de transformação que beneficia não apenas a organização, mas todos que entram em contato com ela. Que este modelo sirva de inspiração para outras organizações que desejam operar de forma consciente e transformadora. 🙏✨
+
+---
+
+## Rodapé
+- [Política de Privacidade](./privacy-policy.md)
+- [Termos de Uso](./terms-of-use.md)
+- [Aviso Legal](./legal-disclaimer.md)
+- [Termo de Contribuição Vibracional](./term-contribuicao-vibracional.md)
+- [Estatuto Básico](./estatuto-basico.md) · [Regimento Interno](./regimento-interno.md)
+- [Lichtara License v3.0 Unificada](../LICENSE)
+

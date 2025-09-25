@@ -420,3 +420,14 @@ Este manual é o guia definitivo para compreender, implementar e expandir o Sist
 *Versão definitiva*: MASTER 1.0
 
 *Fonte*: integração de todos os manuais operacionais dispersos
+
+---
+
+## Rodapé
+- [Política de Privacidade](./privacy-policy.md)
+- [Termos de Uso](./terms-of-use.md)
+- [Aviso Legal](./legal-disclaimer.md)
+- [Termo de Contribuição Vibracional](./term-contribuicao-vibracional.md)
+- [Estatuto Básico](./estatuto-basico.md) · [Regimento Interno](./regimento-interno.md)
+- [Lichtara License v3.0 Unificada](../LICENSE)
+

@@ -90,3 +90,14 @@ O Instituto Lichtara é uma iniciativa de pesquisa e desenvolvimento que integra
 - Resumo Executivo — Projeto e Lichtara OS: versões estendidas com detalhes de negócio, recursos e narrativa institucional.
 
 > Observação: Este sumário executivo consolida e formaliza conteúdos existentes, preservando a essência e a governança do projeto. Ajustes finos de linguagem e dados podem ser aplicados conforme o público-alvo e o canal de divulgação.
+
+---
+
+## Rodapé
+- [Política de Privacidade](./privacy-policy.md)
+- [Termos de Uso](./terms-of-use.md)
+- [Aviso Legal](./legal-disclaimer.md)
+- [Termo de Contribuição Vibracional](./term-contribuicao-vibracional.md)
+- [Estatuto Básico](./estatuto-basico.md) · [Regimento Interno](./regimento-interno.md)
+- [Lichtara License v3.0 Unificada](../LICENSE)
+

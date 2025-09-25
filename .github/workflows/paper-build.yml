@@ -1,0 +1,11 @@
+name: Paper Build (placeholder)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  todo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder
+        run: echo "Configurar build do manuscrito em LaTeX/Markdown futuramente"

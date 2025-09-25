@@ -1,0 +1,10 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "HRV Sample Schema (placeholder)",
+  "type": "object",
+  "properties": {
+    "timestamp": {"type": "integer"},
+    "rr_interval_ms": {"type": "number"}
+  },
+  "required": ["timestamp", "rr_interval_ms"]
+}

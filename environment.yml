@@ -1,0 +1,9 @@
+name: institute
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - matplotlib
+  - pip
+  - pip:
+      - -r requirements.txt

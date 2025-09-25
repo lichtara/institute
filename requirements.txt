@@ -1,0 +1,2 @@
+# Dependências iniciais (a confirmar)
+matplotlib>=3.8

@@ -1,0 +1,13 @@
+name: CI (placeholder)
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  todo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder
+        run: echo "Definir pipeline de lint/testes em iteração futura"

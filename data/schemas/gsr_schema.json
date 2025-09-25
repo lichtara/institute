@@ -1,0 +1,10 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "GSR Sample Schema (placeholder)",
+  "type": "object",
+  "properties": {
+    "timestamp": {"type": "integer"},
+    "eda_microsiemens": {"type": "number"}
+  },
+  "required": ["timestamp", "eda_microsiemens"]
+}

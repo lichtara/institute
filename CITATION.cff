@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: Instituto Lichtara — Base de Pesquisa BRH
+abstract: |
+  Snapshot inicial do repositório do Instituto Lichtara dedicado à pesquisa em
+  Bio-Regulação Harmônica (BRH). Inclui documentação de governança, políticas de
+  dados, protocolos de pesquisa, material de divulgação, amostras sintéticas e o
+  diário operacional das primeiras sessões. Nenhum dado identificável ou sensível
+  é distribuído neste pacote.
+authors:
+  - family-names: Lutz
+    given-names: Débora Mariane da Silva
+    affiliation: Instituto Lichtara
+    email: admin@deboralutz.com
+    # TODO: adicionar ORCID quando disponível.
+# Autores adicionais (ex.: Hélio) podem ser incluídos aqui após revisão.
+keywords:
+  - Bio-Regulação Harmônica
+  - HRV
+  - GSR
+  - Consciência
+  - Ética em IA
+license: Lichtara License v3.0 Unificada
+message: Se utilizar este trabalho, por favor cite conforme indicado abaixo.
+repository-code: https://github.com/lichtara/institute
+version: 0.1.0-pre
+date-released: 2025-09-26

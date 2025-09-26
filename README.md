@@ -21,6 +21,7 @@ make validate
 - `docs/` (governança, políticas de dados, roadmap, colaboradores).
 - `docs/executive-summary.md` (visão estratégica consolidada).
 - `docs/manifesto-consciencia-tecnologica-viva.md` (framework ético-operacional em profundidade).
+- `docs/visao-geral-projeto.md` (síntese estratégica do Instituto e suas bases).
 - `docs/manual-organizacional.md` (arquitetura completa da organização consciente).
 - `docs/manual-sistema-lichtara.md` (manual mestre que integra operações, tecnologia e cultura).
 - `docs/tecnologia-integracao-consciente.md` (bloco técnico detalhado da TIC e integração AIC).

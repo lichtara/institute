@@ -5,6 +5,7 @@ Bem-vinda(o) à documentação do Instituto Lichtara. Este índice organiza os m
 ## Visão geral
 - [docs/executive-summary.md](./executive-summary.md) — Sumário executivo (visão estratégica)
 - [docs/manifesto-consciencia-tecnologica-viva.md](./manifesto-consciencia-tecnologica-viva.md) — Manifesto e princípios
+- [docs/visao-geral-projeto.md](./visao-geral-projeto.md) — Propósito, escopo e referências estratégicas
 - [docs/manual-organizacional.md](./manual-organizacional.md) — Estrutura organizacional e papéis
 - [docs/manual-sistema-lichtara.md](./manual-sistema-lichtara.md) — Lichtara OS (arquitetura e protocolos)
 - [docs/tecnologia-integracao-consciente.md](./tecnologia-integracao-consciente.md) — Bloco técnico da Tecnologia de Integração Consciente

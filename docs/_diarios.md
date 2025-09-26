@@ -1,9 +1,10 @@
-# Índice de Diários BRH
+# Diários BRH
 
-Registros consolidados das sessões respiratórias e vibracionais.
+Este índice é gerado automaticamente. Para incluir um novo diário:
+1. Crie arquivos em `analysis/reports/diarios/` usando o padrão `YYYY-MM-DD-sessao-NN`.
+2. Inclua o registro `.md` e, se disponível, anexos `.pdf` e capturas do Garmin (`-garmin.png`).
+3. Execute `make diarios-index` para atualizar este índice.
 
-| Data | Arquivo Markdown | PDF | Anexos |
-| --- | --- | --- | --- |
-| 2025-09-26 | [2025-09-26-sessao-01.md](../analysis/reports/diarios/2025-09-26-sessao-01.md) | [PDF](../analysis/reports/diarios/2025-09-26-sessao-01.pdf) | [Garmin screenshot](../analysis/reports/diarios/2025-09-26-garmin.png) |
-
-> Atualize esta tabela ao registrar novas sessões.
+| Data | Sessão | Diário (.md) | PDF | Print Garmin |
+|---|---:|---|---|---|
+| 2025-09-26 | 01 | [diário](/analysis/reports/diarios/2025-09-26-sessao-01.md) | [pdf](/analysis/reports/diarios/2025-09-26-sessao-01.pdf) | [imagem](/analysis/reports/diarios/2025-09-26-sessao-01-garmin.png) |

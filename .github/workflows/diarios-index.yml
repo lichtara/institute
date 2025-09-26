@@ -1,0 +1,26 @@
+name: Build Diários Index
+
+on:
+  push:
+    paths:
+      - "analysis/reports/diarios/**"
+      - "tools/generate_diarios_index.py"
+      - "Makefile"
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python3 tools/generate_diarios_index.py
+      - name: Commit updated index
+        run: |
+          git config user.name "lichtara-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/_diarios.md analysis/reports/diarios/README.md || true
+          git commit -m "chore(diarios): atualizar índice automático" || echo "nada para commitar"
+          git push

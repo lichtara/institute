@@ -21,3 +21,10 @@ Registros de práticas individuais organizados por data no formato `YYYY-MM-DD-s
 1. Criar arquivos seguindo a convenção acima dentro desta pasta.
 2. Referenciar anexos na seção **Anexos** do `.md` correspondente.
 3. Executar `make diarios-index` para atualizar o índice e este README.
+
+### 2025-09-26 — Sexta-feira (Folga Consciente)
+
+- **Body Battery final:** 30
+- **Resumo:** Dia intenso em decisões de salvaguardas e missão. Sensação de “cansaço bom”, semelhante a pós-prática vibracional.  
+- **Insight:** “Folgar é deixar o Campo reorganizar. Se a inspiração vier, recebo sem cobrança. Se vier o silêncio, celebro a pausa.”
+- **Arquivo:** [2025-09-26-sexta-feira.pdf](2025-09-26-sexta-feira.pdf)

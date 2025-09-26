@@ -16,6 +16,7 @@ Registros de práticas individuais organizados por data no formato `YYYY-MM-DD-s
 - MD: [2025-09-26-sessao-01.md](/analysis/reports/diarios/2025-09-26-sessao-01.md)
 - PDF: [2025-09-26-sessao-01.pdf](/analysis/reports/diarios/2025-09-26-sessao-01.pdf)
 - Print: [2025-09-26-sessao-01-garmin.png](/analysis/reports/diarios/2025-09-26-sessao-01-garmin.png)
+
 ## Como adicionar novos registros
 
 1. Criar arquivos seguindo a convenção acima dentro desta pasta.

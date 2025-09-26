@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate diary index files for BRH sessions."""
+"""Generate diary index files for BRH sessions and complementary notes."""
 from __future__ import annotations
 
 import re
@@ -14,12 +14,16 @@ DOCS_DIR = ROOT / "docs"
 README_DIARIOS = DIARIOS_DIR / "README.md"
 INDEX_MD = DOCS_DIR / "_diarios.md"
 
-PATTERN = re.compile(
+SESSAO_PATTERN = re.compile(
     r"^(?P<date>\d{4}-\d{2}-\d{2})-sessao-(?P<num>\d+)(?:-[\w-]+)?\.(?P<ext>md|pdf|png)$",
     re.IGNORECASE,
 )
+EXTRA_PATTERN = re.compile(
+    r"^(?P<date>\d{4}-\d{2}-\d{2})-(?!sessao-)(?P<label>[\w-]+)\.(?P<ext>md|pdf|png)$",
+    re.IGNORECASE,
+)
 
-HEADER = """# Diários BRH
+SESSAO_HEADER = """# Diários BRH
 
 Este índice é gerado automaticamente. Para incluir um novo diário:
 1. Crie arquivos em `analysis/reports/diarios/` usando o padrão `YYYY-MM-DD-sessao-NN`.
@@ -29,12 +33,16 @@ Este índice é gerado automaticamente. Para incluir um novo diário:
 | Data | Sessão | Diário (.md) | PDF | Print Garmin |
 |---|---:|---|---|---|
 """
+EXTRA_HEADER = """
+## Notas complementares
 
-ROW_TEMPLATE = "| {date} | {sess:02d} | {md_cell} | {pdf_cell} | {png_cell} |"
+| Data | Descrição | Arquivos |
+|---|---|---|
+"""
 
 
 @dataclass
-class Entry:
+class SessaoEntry:
     date: str
     num: int
     files: Dict[str, Path]
@@ -43,26 +51,46 @@ class Entry:
         return self.files.get(ext)
 
 
-def collect_entries() -> Dict[Tuple[str, int], Entry]:
-    entries: Dict[Tuple[str, int], Entry] = {}
+@dataclass
+class ExtraEntry:
+    date: str
+    label: str
+    files: Dict[str, Path]
+
+    def get(self, ext: str) -> Path | None:
+        return self.files.get(ext)
+
+
+def collect_entries() -> Tuple[Dict[Tuple[str, int], SessaoEntry], Dict[Tuple[str, str], ExtraEntry]]:
+    sessoes: Dict[Tuple[str, int], SessaoEntry] = {}
+    extras: Dict[Tuple[str, str], ExtraEntry] = {}
 
     if not DIARIOS_DIR.exists():
-        return entries
+        return sessoes, extras
 
     for candidate in DIARIOS_DIR.iterdir():
-        match = PATTERN.match(candidate.name)
-        if not match or not candidate.is_file():
+        if not candidate.is_file():
             continue
 
-        date = match.group("date")
-        num = int(match.group("num"))
-        ext = match.group("ext").lower()
+        match_sessao = SESSAO_PATTERN.match(candidate.name)
+        match_extra = EXTRA_PATTERN.match(candidate.name)
 
-        key = (date, num)
-        entry = entries.setdefault(key, Entry(date=date, num=num, files={}))
-        entry.files[ext] = candidate
+        if match_sessao:
+            date = match_sessao.group("date")
+            num = int(match_sessao.group("num"))
+            ext = match_sessao.group("ext").lower()
+            key = (date, num)
+            entry = sessoes.setdefault(key, SessaoEntry(date=date, num=num, files={}))
+            entry.files[ext] = candidate
+        elif match_extra:
+            date = match_extra.group("date")
+            label = match_extra.group("label")
+            ext = match_extra.group("ext").lower()
+            key = (date, label)
+            entry = extras.setdefault(key, ExtraEntry(date=date, label=label, files={}))
+            entry.files[ext] = candidate
 
-    return entries
+    return sessoes, extras
 
 
 def relpath(path: Path) -> str:
@@ -72,10 +100,19 @@ def relpath(path: Path) -> str:
         return path.as_posix()
 
 
-def build_index(entries: Dict[Tuple[str, int], Entry]) -> str:
+def format_links(entry_files: Dict[str, Path]) -> str:
+    links = []
+    for ext, label in (("md", "MD"), ("pdf", "PDF"), ("png", "PNG")):
+        path = entry_files.get(ext)
+        if path:
+            links.append(f"[{label}]({relpath(path)})")
+    return ", ".join(links) if links else "—"
+
+
+def build_index(sessoes: Dict[Tuple[str, int], SessaoEntry], extras: Dict[Tuple[str, str], ExtraEntry]) -> str:
     rows = []
-    for key in sorted(entries.keys(), reverse=True):
-        entry = entries[key]
+    for key in sorted(sessoes.keys(), reverse=True):
+        entry = sessoes[key]
         md = entry.get("md")
         pdf = entry.get("pdf")
         png = entry.get("png")
@@ -84,86 +121,96 @@ def build_index(entries: Dict[Tuple[str, int], Entry]) -> str:
         pdf_cell = f"[pdf]({relpath(pdf)})" if pdf else "—"
         png_cell = f"[imagem]({relpath(png)})" if png else "—"
 
-        rows.append(
-            ROW_TEMPLATE.format(
-                date=entry.date,
-                sess=entry.num,
-                md_cell=md_cell,
-                pdf_cell=pdf_cell,
-                png_cell=png_cell,
-            )
-        )
+        rows.append(f"| {entry.date} | {entry.num:02d} | {md_cell} | {pdf_cell} | {png_cell} |")
 
-    content = HEADER + "\n".join(rows)
+    content = SESSAO_HEADER + "\n".join(rows)
     if rows:
         content += "\n"
+
+    if extras:
+        extra_rows = []
+        for key in sorted(extras.keys(), reverse=True):
+            entry = extras[key]
+            label = entry.label
+            if '-' in label:
+                desc_title = '-'.join(part.capitalize() for part in label.split('-'))
+            else:
+                desc_title = label.replace('_', ' ').title()
+            extra_rows.append(
+                f"| {entry.date} | {desc_title} | {format_links(entry.files)} |"
+            )
+        content += EXTRA_HEADER + "\n".join(extra_rows) + "\n"
+
     return content
 
 
-def ensure_readme_base() -> str:
-    if README_DIARIOS.exists():
-        return README_DIARIOS.read_text(encoding="utf-8")
+def build_readme(sessoes: Dict[Tuple[str, int], SessaoEntry], extras: Dict[Tuple[str, str], ExtraEntry], existing_extra_block: str | None = None) -> str:
+    lines = [
+        "# Diário BRH",
+        "",
+        "Registros de práticas individuais organizados por data no formato `YYYY-MM-DD-sessao-NN`.",
+        "",
+        "## Convenção",
+        "",
+        "- **YYYY-MM-DD** — data da prática.",
+        "- **sessao-NN** — número sequencial do registro no dia.",
+        "- Para cada data mantemos normalmente:",
+        "  - um arquivo `.md` com o registro detalhado;",
+        "  - anexos relevantes (imagens, PDFs, biofeedback).",
+        "",
+        "## Último registro",
+        "",
+    ]
 
-    README_DIARIOS.parent.mkdir(parents=True, exist_ok=True)
-    base = (
-        "# Diário BRH\n\n"
-        "Registros de práticas individuais organizados por data no formato ``YYYY-MM-DD-sessao-NN``.\n\n"
-        "## Convenção\n\n"
-        "- **YYYY-MM-DD** — data da prática.\n"
-        "- **sessao-NN** — número sequencial do registro no dia.\n"
-        "- Normalmente mantemos arquivos `.md`, anexos `.pdf` e imagens associadas.\n\n"
-        "## Último registro\n\n"
-        "- Nenhum registro disponível no momento.\n\n"
-        "## Como adicionar novos registros\n\n"
-        "1. Criar arquivos seguindo a convenção acima dentro desta pasta.\n"
-        "2. Referenciar anexos na seção **Anexos** do `.md` correspondente.\n"
-        "3. Executar `make diarios-index` para atualizar o índice e este README.\n"
-    )
-    README_DIARIOS.write_text(base, encoding="utf-8")
-    return base
-
-
-def update_readme(entries: Dict[Tuple[str, int], Entry]) -> None:
-    readme_text = ensure_readme_base()
-
-    if entries:
-        latest_key = max(entries.keys())
-        latest = entries[latest_key]
+    if sessoes:
+        latest_key = max(sessoes.keys())
+        latest = sessoes[latest_key]
         md = latest.get("md")
         pdf = latest.get("pdf")
         png = latest.get("png")
-        block_lines = [
-            "## Último registro\n",
+        lines.extend([
             f"- **Data:** {latest.date} • **Sessão:** {latest.num:02d}",
             f"- MD: [{md.name}]({relpath(md)})" if md else "- MD: —",
             f"- PDF: [{pdf.name}]({relpath(pdf)})" if pdf else "- PDF: —",
             f"- Print: [{png.name}]({relpath(png)})" if png else "- Print: —",
-            "",
-        ]
+        ])
     else:
-        block_lines = ["## Último registro\n", "- Nenhum registro disponível no momento.\n"]
+        lines.append("- Nenhum registro disponível no momento.")
 
-    block = "\n".join(block_lines)
+    lines.extend([
+        "",
+        "## Como adicionar novos registros",
+        "",
+        "1. Criar arquivos seguindo a convenção acima dentro desta pasta.",
+        "2. Referenciar anexos na seção **Anexos** do `.md` correspondente.",
+        "3. Executar `make diarios-index` para atualizar o índice e este README.",
+    ])
 
-    if "## Último registro" in readme_text:
-        readme_text = re.sub(
-            r"(?s)## Último registro.*?(?=^## |\Z)",
-            block,
-            readme_text,
-            flags=re.MULTILINE,
-        )
-    else:
-        readme_text = readme_text.rstrip() + "\n\n" + block
+    if existing_extra_block:
+        lines.extend(["", existing_extra_block.strip()])
 
-    README_DIARIOS.write_text(readme_text.rstrip() + "\n", encoding="utf-8")
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def extract_extra_block() -> str | None:
+    if not README_DIARIOS.exists():
+        return None
+    text = README_DIARIOS.read_text(encoding="utf-8")
+    match = re.search(r"(### .*)", text, flags=re.DOTALL)
+    return match.group(1) if match else None
 
 
 def main() -> int:
-    entries = collect_entries()
+    sessoes, extras = collect_entries()
 
     INDEX_MD.parent.mkdir(parents=True, exist_ok=True)
-    INDEX_MD.write_text(build_index(entries), encoding="utf-8")
-    update_readme(entries)
+    INDEX_MD.write_text(build_index(sessoes, extras), encoding="utf-8")
+
+    extra_block = extract_extra_block()
+    README_DIARIOS.write_text(
+        build_readme(sessoes, extras, existing_extra_block=extra_block),
+        encoding="utf-8",
+    )
 
     return 0
 

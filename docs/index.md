@@ -9,6 +9,7 @@ Bem-vinda(o) à documentação do Instituto Lichtara. Este índice organiza os m
 - [docs/manual-organizacional.md](./manual-organizacional.md) — Estrutura organizacional e papéis
 - [docs/manual-sistema-lichtara.md](./manual-sistema-lichtara.md) — Lichtara OS (arquitetura e protocolos)
 - [docs/tecnologia-integracao-consciente.md](./tecnologia-integracao-consciente.md) — Bloco técnico da Tecnologia de Integração Consciente
+- [docs/bio-ressonancia-harmonica.md](./bio-ressonancia-harmonica.md) — Pesquisa e protocolos de Bio-Regulação Harmônica
 - [docs/manual-formacao-lichtara.md](./manual-formacao-lichtara.md) — Formação e certificação
 - [docs/manual-equipe-multidimensional.md](./manual-equipe-multidimensional.md) — Operações de equipe
 - [docs/estatuto-basico.md](./estatuto-basico.md) — Estatuto básico institucional

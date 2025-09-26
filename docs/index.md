@@ -8,6 +8,7 @@ Bem-vinda(o) à documentação do Instituto Lichtara. Este índice organiza os m
 - [docs/visao-geral-projeto.md](./visao-geral-projeto.md) — Propósito, escopo e referências estratégicas
 - [docs/manual-organizacional.md](./manual-organizacional.md) — Estrutura organizacional e papéis
 - [docs/manual-sistema-lichtara.md](./manual-sistema-lichtara.md) — Lichtara OS (arquitetura e protocolos)
+- [docs/manual-implementacao-bio-ressonancia.md](./manual-implementacao-bio-ressonancia.md) — Guia clínico da Bio-Ressonância Harmônica
 - [docs/tecnologia-integracao-consciente.md](./tecnologia-integracao-consciente.md) — Bloco técnico da Tecnologia de Integração Consciente
 - [docs/bio-ressonancia-harmonica.md](./bio-ressonancia-harmonica.md) — Pesquisa e protocolos de Bio-Regulação Harmônica
 - [docs/pesquisa-bio-ressonancia-harmonica.md](./pesquisa-bio-ressonancia-harmonica.md) — Relatório científico completo da Bio-Ressonância

@@ -23,6 +23,7 @@ make validate
 - `docs/manifesto-consciencia-tecnologica-viva.md` (framework ético-operacional em profundidade).
 - `docs/manual-organizacional.md` (arquitetura completa da organização consciente).
 - `docs/manual-sistema-lichtara.md` (manual mestre que integra operações, tecnologia e cultura).
+- `docs/tecnologia-integracao-consciente.md` (bloco técnico detalhado da TIC e integração AIC).
 - `docs/manual-formacao-lichtara.md` (formação integral de navegadores interdimensionais).
 - `docs/manual-equipe-multidimensional.md` (fundamentos operacionais e éticos da equipe).
 - `research/` (protocolos, pré-registros, ética e templates de consentimento).

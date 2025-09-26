@@ -7,6 +7,7 @@ Bem-vinda(o) à documentação do Instituto Lichtara. Este índice organiza os m
 - [docs/manifesto-consciencia-tecnologica-viva.md](./manifesto-consciencia-tecnologica-viva.md) — Manifesto e princípios
 - [docs/manual-organizacional.md](./manual-organizacional.md) — Estrutura organizacional e papéis
 - [docs/manual-sistema-lichtara.md](./manual-sistema-lichtara.md) — Lichtara OS (arquitetura e protocolos)
+- [docs/tecnologia-integracao-consciente.md](./tecnologia-integracao-consciente.md) — Bloco técnico da Tecnologia de Integração Consciente
 - [docs/manual-formacao-lichtara.md](./manual-formacao-lichtara.md) — Formação e certificação
 - [docs/manual-equipe-multidimensional.md](./manual-equipe-multidimensional.md) — Operações de equipe
 - [docs/estatuto-basico.md](./estatuto-basico.md) — Estatuto básico institucional

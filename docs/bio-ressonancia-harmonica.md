@@ -2,6 +2,8 @@
 
 ## Introdução
 
+> Para o relatório científico completo da pesquisa, consulte [docs/pesquisa-bio-ressonancia-harmonica.md](./pesquisa-bio-ressonancia-harmonica.md).
+
 A Bio-Ressonância Harmônica — recentemente denominada também Bio-Regulação Harmônica — é uma abordagem terapêutica integrativa que une sabedoria ancestral e ciência contemporânea. Utiliza frequências sonoras e vibracionais específicas para restaurar a harmonia dos sistemas biológicos, surgindo como síntese entre conhecimentos milenares sobre frequências terapêuticas e descobertas modernas da física quântica e neurociência. Diferente da visão biomédica tradicional, a Bio-Ressonância Harmônica representa um paradigma evolutivo que transcende a perspectiva mecanicista e reconhece o corpo como sistema energético integrado, no qual a coerência vibracional entre células e órgãos é fundamental para o bem-estar.
 
 **Por que “Bio-Regulação”?** O termo original destaca o fenômeno da ressonância (sincronização entre frequências internas e externas). A nova denominação enfatiza o resultado: autorregulação biológica harmônica. Em prática, trata-se de reestabelecer o equilíbrio homeostático valendo-se das propriedades ressonantes do som, devolvendo o organismo a um estado coerente.

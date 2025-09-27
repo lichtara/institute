@@ -36,4 +36,4 @@ Registros de práticas individuais organizados por data no formato `YYYY-MM-DD-s
 - **Resumo:** Folga com cochilos leves; picos de estresse emocionais entre manhã e tarde sincronizados com queda da bateria.
 - **Leituras:** FC repouso 56 bpm (pico 117 bpm); SpO₂ média 93% com janelas noturnas de 80–89%. Sono prévio de ~4h54 com REM reduzido.
 - **Plano noturno:** NSDR/respiração 4-6, higiene nasal + decúbito lateral, corte de telas 60–90 min antes, aferir SpO₂ sentada.  
-- **Arquivos:** [2025-09-27-relatorio.md](2025-09-27-relatorio.md), [2025-09-27-resumo-diario.pdf](2025-09-27-resumo-diario.pdf), [2025-09-27-diario-do-sono.pdf](2025-09-27-diario-do-sono.pdf), [2025-09-27-sono.csv](2025-09-27-sono.csv)
+- **Arquivos:** [2025-09-27-relatorio.md](2025-09-27-relatorio.md), [2025-09-27-resumo-diario.pdf](2025-09-27-resumo-diario.pdf), [2025-09-27-diario.pdf](2025-09-27-diario.pdf), [2025-09-27-diario-do-sono.pdf](2025-09-27-diario-do-sono.pdf), [2025-09-27-sono.csv](2025-09-27-sono.csv)

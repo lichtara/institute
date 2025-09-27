@@ -13,5 +13,6 @@ Este índice é gerado automaticamente. Para incluir um novo diário:
 
 | Data | Descrição | Arquivos |
 |---|---|---|
+| 2025-09-27 | Relatorio | [MD](/analysis/reports/diarios/2025-09-27-relatorio.md) |
 | 2025-09-26 | Sono | [PDF](/analysis/reports/diarios/2025-09-26-sono.pdf) |
 | 2025-09-26 | Sexta-Feira | [PDF](/analysis/reports/diarios/2025-09-26-sexta-feira.pdf) |

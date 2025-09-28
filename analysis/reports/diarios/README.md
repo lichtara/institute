@@ -37,3 +37,11 @@ Registros de práticas individuais organizados por data no formato `YYYY-MM-DD-s
 - **Leituras:** FC repouso 56 bpm (pico 117 bpm); SpO₂ média 93% com janelas noturnas de 80–89%. Sono prévio de ~4h54 com REM reduzido.
 - **Plano noturno:** NSDR/respiração 4-6, higiene nasal + decúbito lateral, corte de telas 60–90 min antes, aferir SpO₂ sentada.  
 - **Arquivos:** [2025-09-27-relatorio.md](2025-09-27-relatorio.md), [2025-09-27-resumo-diario.pdf](2025-09-27-resumo-diario.pdf), [2025-09-27-diario.pdf](2025-09-27-diario.pdf), [2025-09-27-diario-do-sono.pdf](2025-09-27-diario-do-sono.pdf), [2025-09-27-sono.csv](2025-09-27-sono.csv)
+
+### 2025-09-28 — Domingo (Monitoramento Físico)
+
+- **Body Battery ao meio-dia:** 47/100 (carga noturna +57).
+- **Resumo:** Recuperação tranquila; observação de alterações em unhas/cutículas e parestesia na mão esquerda.
+- **Leituras:** Sono 7h49 (profundo 1h20; REM 1h08; leve 5h21); FC repouso 57 bpm; SpO₂ média 92% (mín. 81%).
+- **Plano:** Registrar sintomas, manter respirações longas, agendar avaliação médica para oxigenação e sensibilidade das mãos.
+- **Arquivos:** [2025-09-28-diario.md](2025-09-28-diario.md), [2025-09-28-diario.pdf](2025-09-28-diario.pdf), [2025-09-28-resumo-diario.pdf](2025-09-28-resumo-diario.pdf), [2025-09-28-diario-do-sono.pdf](2025-09-28-diario-do-sono.pdf), [2025-09-28-sono.csv](2025-09-28-sono.csv)

@@ -38,6 +38,16 @@ make validate
 - `outreach/` e `website/` (materiais públicos, dossiês, esboços de site).
 - `tools/` (scripts auxiliares e integrações operacionais).
 
+## Registros Diários de Saúde e Sono
+
+Para acompanhar bem-estar fisiológico de maneira contínua, mantemos registros diários em `analysis/reports/diarios/`. Cada dia conta com:
+
+- Arquivo narrativo `YYYY-MM-DD-diario.md` descrevendo sono, fisiologia, estresse/humor e observações subjetivas.
+- Anexos `YYYY-MM-DD-diario.pdf`, gráficos (`*-fc.png`, `*-spo-sono.png`, etc.) e dados exportados (`YYYY-MM-DD-sono.csv`).
+- Um arquivo estruturado `data/sleep/YYYY-MM-DD.json` com as principais métricas do dia (duração do sono, fases, FC de repouso, SpO₂ média/mínima, respiração, variação de Body Battery, entre outras).
+
+Esses registros funcionam como diário de bem-estar quantificado, permitindo análises longitudinais e correlação com protocolos Lichtara (ex.: sessões de BRH). Para atualizar o índice automático utilize `python3 tools/generate_diarios_index.py` e, opcionalmente, `python3 tools/render_diario_pdf.py` para gerar o PDF consolidado do dia.
+
 ## Próximos passos
 1. Criar esqueleto de diretórios e placeholders conforme plano do Instituto.
 2. Redigir `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `SECURITY.md` e guias complementares.

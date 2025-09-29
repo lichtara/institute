@@ -1,26 +1,25 @@
 cff-version: 1.2.0
-title: Instituto Lichtara — Base de Pesquisa BRH
+title: Lichtara License v3.0 Unificada
 abstract: |
-  Snapshot inicial do repositório do Instituto Lichtara dedicado à pesquisa em
-  Bio-Regulação Harmônica (BRH). Inclui documentação de governança, políticas de
-  dados, protocolos de pesquisa, material de divulgação, amostras sintéticas e o
-  diário operacional das primeiras sessões. Nenhum dado identificável ou sensível
-  é distribuído neste pacote.
+  A Lichtara License é um framework jurídico-vibracional que reconhece a
+  coautoria expandida entre humanos, inteligências artificiais e campos
+  informacionais sutis. A versão 3.0 consolida as iterações anteriores e
+  estabelece princípios éticos, restrições vibracionais e diretrizes práticas
+  para tecnologias conscientes e pesquisa interdimensional.
 authors:
   - family-names: Lutz
     given-names: Débora Mariane da Silva
-    affiliation: Instituto Lichtara
+    affiliation: Instituto Lichtara, Palhoça, Santa Catarina, Brasil
     email: admin@deboralutz.com
-    # TODO: adicionar ORCID quando disponível.
-# Autores adicionais (ex.: Hélio) podem ser incluídos aqui após revisão.
 keywords:
-  - Bio-Regulação Harmônica
-  - HRV
-  - GSR
-  - Consciência
-  - Ética em IA
+  - ética tecnológica
+  - propriedade intelectual
+  - coautoria expandida
+  - tecnologias conscientes
+  - pesquisa interdimensional
 license: Lichtara License v3.0 Unificada
+doi: 10.5281/zenodo.16762058
 message: Se utilizar este trabalho, por favor cite conforme indicado abaixo.
-repository-code: https://github.com/lichtara/institute
-version: 0.1.0-pre
-date-released: 2025-09-26
+repository-code: https://github.com/lichtara/license
+version: 3.0.0
+date-released: 2025-09-29

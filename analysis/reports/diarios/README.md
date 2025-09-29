@@ -45,3 +45,11 @@ Registros de práticas individuais organizados por data no formato `YYYY-MM-DD-s
 - **Leituras:** Sono 7h49 (profundo 1h20; REM 1h08; leve 5h21); FC repouso 57 bpm; SpO₂ média 92% (mín. 81%).
 - **Plano:** Registrar sintomas, manter respirações longas, agendar avaliação médica para oxigenação e sensibilidade das mãos.
 - **Arquivos:** [2025-09-28-diario.md](2025-09-28-diario.md), [2025-09-28-diario.pdf](2025-09-28-diario.pdf), [2025-09-28-resumo-diario.pdf](2025-09-28-resumo-diario.pdf), [2025-09-28-diario-do-sono.pdf](2025-09-28-diario-do-sono.pdf), [2025-09-28-sono.csv](2025-09-28-sono.csv)
+
+### 2025-09-29 — Segunda-feira (Sono Curto)
+
+- **Body Battery ao meio-dia:** 47/100 (recarga +53).
+- **Resumo:** Noite curta (6h32) com SpO₂ mínima 73%; foco em autorregulação suave e acompanhamento de sinais físicos.
+- **Leituras:** Sono profundo 1h22; leve 4h51; REM 19min; FC repouso 56 bpm; SpO₂ média 90%; respiração média 15 brpm.
+- **Plano:** Registrar sintomas, manter respirações 4-6, preparar consulta para avaliação respiratória/vascular das mãos.
+- **Arquivos:** [2025-09-29-diario.md](2025-09-29-diario.md), [2025-09-29-diario.pdf](2025-09-29-diario.pdf), [2025-09-29-resumo-diario.pdf](2025-09-29-resumo-diario.pdf), [2025-09-29-sono.pdf](2025-09-29-sono.pdf), [2025-09-29-sono.csv](2025-09-29-sono.csv)

@@ -254,12 +254,43 @@ make validate
 
 ## 📝 Registros Diários de Saúde e Sono
 
-Registros diários em `analysis/reports/diarios/`:
-- Narrativa (`YYYY-MM-DD-diario.md`): sono, fisiologia, estresse/humor, observações
-- Anexos e gráficos (`*-fc.png`, `*-spo-sono.png`, etc.)
-- Dados estruturados (`data/sleep/YYYY-MM-DD.json`): métricas fisiológicas
+Para acompanhar o bem-estar fisiológico de forma contínua, mantemos os registros diários
+na pasta `analysis/reports/diarios/`. Cada dia deve reunir, de maneira organizada, os
+seguintes componentes:
 
-Permitem análise longitudinal e correlação com protocolos Lichtara (ex.: BRH).
+- **Narrativa (`YYYY-MM-DD-diario.md`):** síntese textual do dia com sono, fisiologia,
+  estresse/humor e observações qualitativas.
+- **Dados estruturados (`YYYY-MM-DD-dados.json` ou `YYYY-MM-DD-sono.csv`):** métricas
+  diárias padronizadas (duração total do sono, fases leve/profundo/REM, tempo acordado,
+  frequência cardíaca de repouso, SpO₂ média/mínima, respiração média, Body Battery,
+  entre outras relevantes). Sempre nomeie os arquivos com a data no formato ISO para
+  manter a ordenação cronológica.
+- **Anexos e gráficos:** imagens (`*-fc.png`, `*-spo2.png`, etc.), PDFs e demais
+  materiais de apoio relacionados ao dia.
+
+Recomenda-se registrar os dados numéricos em JSON estruturado pela clareza e facilidade
+de processamento. Um exemplo resumido de arquivo é apresentado abaixo:
+
+```json
+{
+  "data": "2025-09-29",
+  "sono": {
+    "duracao_total": "6h32",
+    "profundo": "1h22",
+    "leve": "4h51",
+    "rem": "19min",
+    "acordado": "5min"
+  },
+  "frequencia_cardiaca_repouso": "56 bpm",
+  "spo2_media_noite": "90%",
+  "spo2_minima_noite": "73%",
+  "respiracao_media": "15 brpm"
+}
+```
+
+Esses registros possibilitam análises longitudinais (por exemplo, correlação com
+protocolos de Bio-Regulação Harmônica) e devem permanecer restritos a
+`analysis/reports/diarios/`, preservando dados sensíveis fora do diretório `data/`.
 
 ---
 

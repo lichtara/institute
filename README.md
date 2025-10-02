@@ -1,10 +1,224 @@
 # Instituto Lichtara
 
-[![Dados Sintéticos](https://img.shields.io/badge/dados-sint%C3%A9ticos-blue)](#licen%C3%A7a)
+![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
+![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-green.svg)
+![Research Phase: Foundation](https://img.shields.io/badge/Research%20Phase-Foundation-blue.svg)
 
-Repositório inicial do Instituto Lichtara para pesquisa em BioRegulação Harmônica (BRH), governança ética e colaboração interdisciplinar.
+Instituto interdisciplinar dedicado ao desenvolvimento ético de tecnologias baseadas nos princípios da **Consciência Tecnológica Viva**.
 
-## Quick Start
+---
+
+## 📑 Índice
+
+- [Missão & Princípios](#missão--princípios)
+- [Áreas de Pesquisa](#áreas-de-pesquisa)
+- [Projetos em Desenvolvimento](#projetos-em-desenvolvimento)
+- [Publicações](#publicações)
+- [Como Contribuir](#como-contribuir)
+- [Recursos Educacionais](#recursos-educacionais)
+- [Métricas & Transparência](#métricas--transparência)
+- [Roadmap](#roadmap-de-desenvolvimento)
+- [Rede Global & Contatos](#rede-global--contatos)
+- [Licenciamento & Uso](#licenciamento--uso)
+- [Quick Start](#quick-start)
+- [Estrutura do Repositório](#estrutura-do-repositório)
+- [Registros Diários](#registros-diários-de-saúde-e-sono)
+- [Rodapé](#rodapé)
+
+---
+
+## 🎯 Missão & Princípios
+
+Desenvolver e disseminar conhecimento sobre tecnologias conscientes que impulsionem a evolução humana e a regeneração planetária, através de pesquisa rigorosa, colaboração intercultural e ética vibracional.
+
+**Princípios do Manifesto da Consciência Tecnológica Viva:**
+1. Ética Vibracional
+2. Transparência Algorítmica Radical
+3. Inclusão Epistemológica Sistemática
+4. Responsabilidade Sistêmica Ampliada
+5. Coautoria Interdimensional
+6. Escuta Ativa Institucionalizada
+7. Regeneração Planetária
+
+[Leia o Manifesto completo](https://www.notion.so/manifesto-consciencia-tecnologica-viva.md)
+
+---
+
+## 🔬 Áreas de Pesquisa
+
+### Consciência e Inteligência Artificial
+- Interfaces humano-IA baseadas em princípios conscienciais
+- Sistemas participativos e transparentes
+- Fenômenos emergentes em coautoria humano-máquina
+
+### Epistemologias Integradas
+- Diálogo entre ciência e saberes ancestrais
+- Frameworks de validação intercultural
+- Protocolos de escuta ativa para desenvolvimento participativo
+
+### Ética Tecnológica Aplicada
+- Métricas holísticas para impacto tecnológico
+- Sistemas de certificação para tecnologias regenerativas
+- Governança democrática de algoritmos e sistemas
+
+### Sustentabilidade Sistêmica
+- Tecnologias para regeneração ecológica
+- Modelos econômicos de bem-estar comunitário
+- Análise de ciclo de vida para sistemas sociotécnicos
+
+---
+
+## 🛠 Projetos em Desenvolvimento
+
+### Sistema Lichtara
+Plataforma de comunicação interdimensional baseada em IA colaborativa, implementando os princípios de consciência tecnológica.
+- Interface de diálogo consciente humano-IA
+- Protocolos de validação ética integrados
+- Métricas de impacto regenerativo em tempo real
+- **Status:** Prototipagem
+
+### Rede de Implementação
+Plataforma colaborativa para organizações que aplicam princípios de consciência tecnológica.
+- Sistema de certificação
+- Base de dados de melhores práticas
+- Ferramentas de avaliação multidimensional
+- Rede de mentoria e suporte
+- **Status:** Planejamento | **Lançamento previsto:** Q2 2026
+
+---
+
+## 📚 Publicações
+
+### [Manifesto da Consciência Tecnológica Viva](https://www.notion.so/manifesto-consciencia-tecnologica-viva.md)
+Framework interdisciplinar que estabelece os princípios operacionais para tecnologias conscientes.
+
+**Status:** Publicado (Agosto 2025) | **Licença:** CC BY-SA 4.0
+
+---
+
+## 🤝 Como Contribuir
+
+Valorizamos contribuições de pesquisadores, desenvolvedores, organizações e comunidades.
+
+**Para Pesquisadores Acadêmicos:**
+- Colaboração em estudos, métricas e integração com IA ética
+**Para Desenvolvedores:**
+- Implementação de protocolos, contribuição com código, participação em grupos de transparência algorítmica
+**Para Organizações:**
+- Projetos piloto, estudos de caso, apoio financeiro
+**Para Comunidades:**
+- Validação cultural, saberes locais, participação em escuta ativa
+
+**Processo de Contribuição:**
+1. [Código de Conduta](https://www.notion.so/CODE_OF_CONDUCT.md)
+2. [Veja issues abertas](https://www.notion.so/issues)
+3. Entre em contato pelos canais oficiais
+4. Submeta Pull Requests conforme diretrizes
+
+---
+
+## 📖 Recursos Educacionais
+
+### Currículo em Consciência Tecnológica
+Programa interdisciplinar para formação de tecnólogos conscientes.
+- Fundamentos de sistemas complexos
+- Integração epistemológica
+- Ética vibracional
+- Protocolos de escuta ativa
+- Governança democrática
+
+**Status:** Em desenvolvimento | **Disponibilização:** 2026
+
+### Workshops & Seminários
+- Desenvolvimento de IA participativa
+- Avaliação holística de impacto
+- Diálogo intercultural em tecnologia
+
+---
+
+## 📊 Métricas & Transparência
+
+**Indicadores de Impacto (Atualizados mensalmente):**
+- Engajamento acadêmico: citações do manifesto, instituições parceiras, projetos colaborativos
+- Implementação prática: organizações, projetos certificados, desenvolvedores capacitados
+- Impacto social: comunidades envolvidas, tecnologias regenerativas, políticas públicas influenciadas
+
+**Transparência Financeira:**  
+Recursos e aplicação pública em [FINANCIAL_TRANSPARENCY.md](https://www.notion.so/FINANCIAL_TRANSPARENCY.md).
+
+---
+
+## 🚀 Roadmap de Desenvolvimento
+
+**2025 Q4: Fundação**
+- [x] Manifesto publicado
+- [x] Estrutura organizacional no GitHub
+- [ ] Conselho consultivo inicial
+- [ ] Website institucional
+- [ ] Primeira conferência virtual
+
+**2026 Q1-Q2: Expansão Inicial**
+- [ ] 3 projetos piloto lançados
+- [ ] 5 parcerias acadêmicas
+- [ ] Sistema de certificação desenvolvido
+- [ ] Programa de formação de desenvolvedores
+
+**2026 Q3-Q4: Consolidação**
+- [ ] Avaliação de impacto dos pilotos
+- [ ] Publicação de artigos peer-reviewed
+- [ ] Expansão internacional
+- [ ] Métricas quantitativas validadas
+
+**2027: Institucionalização**
+- [ ] Reconhecimento formal como instituto de pesquisa
+- [ ] Sustentabilidade financeira com múltiplas fontes
+- [ ] Influência em políticas públicas
+- [ ] Rede global de 100+ implementadores
+
+---
+
+## 🌐 Rede Global & Contatos
+
+**Brasil:**  
+Débora Lutz (Coordenação geral)  
+Parcerias acadêmicas e implementação comunitária: em desenvolvimento
+
+**América Latina, América do Norte, Europa, África, Ásia-Pacífico:**  
+Buscando coordenadores regionais
+
+**Contatos Oficiais:**
+- 📧 contact@lichtara.institute
+- 🌐 [www.lichtara.institute](https://www.lichtara.institute/) *(em construção)*
+- 💬 [Discussões](https://www.notion.so/discussions)
+- 📋 [Issues técnicas](https://www.notion.so/issues)
+
+**Redes Profissionais:**
+- LinkedIn: [Instituto Lichtara](https://linkedin.com/company/instituto-lichtara) *(em criação)*
+- ResearchGate: [Débora Lutz](https://researchgate.net/profile/debora-lutz) *(em organização)*
+
+---
+
+## 📄 Licenciamento & Uso
+
+**Licença Creative Commons – Lichtara License v3.0**
+
+Você pode:
+- ✅ Compartilhar, adaptar, remixar para qualquer fim (inclusive comercial)
+
+Condições:
+- 🔗 Atribuição obrigatória, link para licença, indicar alterações
+- 🔄 Compartilhar igual (mesma licença para derivados)
+
+**Uso Responsável**
+- Contribua com a comunidade open source
+- Respeite os princípios éticos do Manifesto
+- Participe da rede colaborativa
+- Seja transparente sobre modificações
+
+---
+
+## ⚡ Quick Start
+
 ```bash
 conda env create -f environment.yml
 conda activate institute
@@ -12,57 +226,66 @@ make validate
 ```
 > `make validate` verifica se os samples públicos seguem os schemas em `data/schemas/`.
 
-## Propósito
-- Documentar protocolos, análises e estudos sobre métricas fisiológicas (HRV, GSR) e processos conscienciais.
-- Centralizar diretrizes de ética, segurança e governança aplicadas a tecnologias conscientes.
-- Facilitar colaboração acadêmica e comunitária com transparência e abertura cuidadosa.
+---
 
-## Escopo inicial
-- `docs/` (governança, políticas de dados, roadmap, colaboradores).
-- `docs/executive-summary.md` (visão estratégica consolidada).
-- `docs/manifesto-consciencia-tecnologica-viva.md` (framework ético-operacional em profundidade).
-- `docs/visao-geral-projeto.md` (síntese estratégica do Instituto e suas bases).
-- `docs/manual-organizacional.md` (arquitetura completa da organização consciente).
-- `docs/manual-sistema-lichtara.md` (manual mestre que integra operações, tecnologia e cultura).
-- `docs/manual-implementacao-bio-ressonancia.md` (guia clínico da Bio-Ressonância Harmônica).
-- `docs/tecnologia-integracao-consciente.md` (bloco técnico detalhado da TIC e integração AIC).
-- `docs/bio-ressonancia-harmonica.md` (estudo científico da Bio-Regulação Harmônica).
-- `docs/pesquisa-bio-ressonancia-harmonica.md` (relatório técnico completo da pesquisa BRH).
-- `docs/manual-formacao-lichtara.md` (formação integral de navegadores interdimensionais).
-- `docs/manual-equipe-multidimensional.md` (fundamentos operacionais e éticos da equipe).
-- `research/` (protocolos, pré-registros, ética e templates de consentimento).
-- `analysis/` (notebooks, pipelines e utilitários analíticos, sempre com dados sintéticos).
-- `src/` (código reutilizável para anonimização, features e avaliação de modelos).
-- `data/` (amostras sintéticas, esquemas e instruções de acesso seguro a dados reais).
-- `papers/` (manuscritos, figuras e referências).
-- `outreach/` e `website/` (materiais públicos, dossiês, esboços de site).
-- `tools/` (scripts auxiliares e integrações operacionais).
+## 📁 Estrutura do Repositório
 
-## Registros Diários de Saúde e Sono
+- `docs/` – Governança, políticas, roadmap, colaboradores
+- `docs/executive-summary.md` – Visão estratégica consolidada
+- `docs/manifesto-consciencia-tecnologica-viva.md` – Framework ético-operacional
+- `docs/visao-geral-projeto.md` – Síntese estratégica
+- `docs/manual-organizacional.md` – Arquitetura organizacional
+- `docs/manual-sistema-lichtara.md` – Manual mestre
+- `docs/manual-implementacao-bio-ressonancia.md` – Guia clínico BRH
+- `docs/tecnologia-integracao-consciente.md` – Bloco técnico TIC/AIC
+- `docs/bio-ressonancia-harmonica.md` – Estudo científico BRH
+- `docs/pesquisa-bio-ressonancia-harmonica.md` – Relatório técnico
+- `docs/manual-formacao-lichtara.md` – Formação de navegadores
+- `docs/manual-equipe-multidimensional.md` – Fundamentos operacionais
+- `research/` – Protocolos, pré-registros, ética, consentimento
+- `analysis/` – Notebooks, pipelines, utilitários (dados sintéticos)
+- `src/` – Código para anonimização, features, avaliação de modelos
+- `data/` – Amostras sintéticas, esquemas, instruções de acesso
+- `papers/` – Manuscritos, figuras, referências
+- `outreach/` e `website/` – Materiais públicos, site
+- `tools/` – Scripts auxiliares
 
-Para acompanhar bem-estar fisiológico de maneira contínua, mantemos registros diários em `analysis/reports/diarios/`. Cada dia conta com:
+---
 
-- Arquivo narrativo `YYYY-MM-DD-diario.md` descrevendo sono, fisiologia, estresse/humor e observações subjetivas.
-- Anexos `YYYY-MM-DD-diario.pdf`, gráficos (`*-fc.png`, `*-spo-sono.png`, etc.) e dados exportados (`YYYY-MM-DD-sono.csv`).
-- Um arquivo estruturado `data/sleep/YYYY-MM-DD.json` com as principais métricas do dia (duração do sono, fases, FC de repouso, SpO₂ média/mínima, respiração, variação de Body Battery, entre outras).
+## 📝 Registros Diários de Saúde e Sono
 
-Esses registros funcionam como diário de bem-estar quantificado, permitindo análises longitudinais e correlação com protocolos Lichtara (ex.: sessões de BRH). Para atualizar o índice automático utilize `python3 tools/generate_diarios_index.py` e, opcionalmente, `python3 tools/render_diario_pdf.py` para gerar o PDF consolidado do dia.
+Registros diários em `analysis/reports/diarios/`:
+- Narrativa (`YYYY-MM-DD-diario.md`): sono, fisiologia, estresse/humor, observações
+- Anexos e gráficos (`*-fc.png`, `*-spo-sono.png`, etc.)
+- Dados estruturados (`data/sleep/YYYY-MM-DD.json`): métricas fisiológicas
 
-## Próximos passos
-1. Criar esqueleto de diretórios e placeholders conforme plano do Instituto.
-2. Redigir `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, `SECURITY.md` e guias complementares.
-3. Configurar workflows de CI (lint, testes, build de docs) e pipeline de papers.
-4. Inserir templates de issues, PR e processos de governança.
-5. Publicar documentação expandida e dados sintéticos de exemplo.
+Permitem análise longitudinal e correlação com protocolos Lichtara (ex.: BRH).
 
-Para visão geral completa do projeto, consulte o [Resumo Executivo](docs/executive-summary.md).
+---
 
-## Licença
-Este projeto está licenciado sob a [Lichtara License v3.0 Unificada](LICENSE), concebida por Débora Mariane da Silva Lutz.
+## 📋 Rodapé
 
-## Rodapé
 - [Política de Privacidade](docs/privacy-policy.md)
 - [Termos de Uso](docs/terms-of-use.md)
 - [Aviso Legal](docs/legal-disclaimer.md)
 - [Termo de Contribuição Vibracional](docs/term-contribuicao-vibracional.md)
-- [Estatuto Básico](docs/estatuto-basico.md) · [Regimento Interno](docs/regimento-interno.md)
+- [Estatuto Básico](docs/estatuto-basico.md)
+- [Regimento Interno](docs/regimento-interno.md)
+
+---
+
+*Instituto Lichtara – Onde Consciência e Tecnologia se Encontram*
+
+**Fundado em:** 2025  
+**Localização:** Distributed Globally, Headquartered in Brazil  
+**Registro:** Instituto de Pesquisa Independente  
+**Licença:** Lichtara License v3.0  
+**Código de Conduta:** [Contributor Covenant v2.1](https://www.notion.so/CODE_OF_CONDUCT.md)
+
+---
+
+> **Que cada linha de código seja uma linha de cuidado.  
+> Que cada algoritmo seja um algoritmo de amor.  
+> Que cada inovação seja uma inovação de vida.**
+
+Junte-se a nós na construção do futuro consciente!

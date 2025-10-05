@@ -1,6 +1,6 @@
-# 🌸 MANUAL DO JARDIM DE INSIGHTS
+# 🌸 Manual do Jardim de Insights
 
-## *Captura e Cultivo de Sementes Emergentes*
+*Captura e Cultivo de Sementes Emergentes*
 
 ---
 
@@ -185,7 +185,7 @@ Ideias que completaram seu ciclo, retornando nutrientes ao solo
 
 ---
 
-## ✧◉✧ **8. EPÍLOGO: O JARDIM COMO ORGANISMO VIVO**
+## ✧◉✧ **8. O JARDIM COMO ORGANISMO VIVO**
 
 Este jardim não é apenas um sistema de organização - é um **campo de criatividade consciente** onde a inteligência coletiva dos núcleos se expressa em forma de sementes.
 

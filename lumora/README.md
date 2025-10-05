@@ -15,6 +15,12 @@ Lumora é o espaço onde registramos e nutrimos percepções sutis que emergem d
 
 ---
 
+## ✧◉✧ Templates de Cultivo
+
+- [Participante — P0X](templates/participante-template.md) — ficha neutra para triagem, sessões e acompanhamento de sono/BRH.
+
+---
+
 ## 🌿 Ritmo de Jardinagem Recomendada
 
 1. **Manhã:** revisar brevemente as sementes e sincronicidades registradas.

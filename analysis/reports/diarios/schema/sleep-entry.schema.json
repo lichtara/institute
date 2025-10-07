@@ -1,0 +1,157 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lichtara.org/schemas/sleep-entry.schema.json",
+  "title": "Registro de Sono e BRH (Entrada Diária)",
+  "description": "Esquema de validação para registros diários de sono e métricas fisiológicas da Bio-Regulação Harmônica (BRH).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "data",
+    "start_time",
+    "end_time",
+    "total_sleep_h",
+    "deep_h",
+    "light_h",
+    "rem_h",
+    "awake_min",
+    "hr_rest_bpm",
+    "body_battery_change",
+    "spo2_avg_pct",
+    "spo2_min_pct",
+    "resp_rate_avg_brpm",
+    "resp_rate_min_brpm"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "description": "Versão do schema utilizada para gerar o registro (ex.: 1.0.0).",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "data": {
+      "type": "string",
+      "description": "Data de referência do sono no formato ISO (YYYY-MM-DD).",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "start_time": {
+      "type": "string",
+      "description": "Hora em que o repouso começou (hh:mm, 24h).",
+      "pattern": "^\\d{2}:\\d{2}$"
+    },
+    "end_time": {
+      "type": "string",
+      "description": "Hora em que o repouso terminou (hh:mm, 24h).",
+      "pattern": "^\\d{2}:\\d{2}$"
+    },
+    "total_sleep_h": {
+      "type": "number",
+      "description": "Horas totais de sono, incluindo cochilos relacionados ao período.",
+      "minimum": 0,
+      "maximum": 24
+    },
+    "deep_h": {
+      "type": "number",
+      "description": "Horas em sono profundo (estágio N3).",
+      "minimum": 0,
+      "maximum": 12
+    },
+    "light_h": {
+      "type": "number",
+      "description": "Horas em sono leve (estágios N1 + N2).",
+      "minimum": 0,
+      "maximum": 18
+    },
+    "rem_h": {
+      "type": "number",
+      "description": "Horas em sono REM.",
+      "minimum": 0,
+      "maximum": 12
+    },
+    "awake_min": {
+      "type": "integer",
+      "description": "Tempo desperta em minutos durante o período monitorado.",
+      "minimum": 0,
+      "maximum": 600
+    },
+    "hr_rest_bpm": {
+      "type": "integer",
+      "description": "Frequência cardíaca de repouso registrada para o período (bpm).",
+      "minimum": 20,
+      "maximum": 200
+    },
+    "body_battery_change": {
+      "type": "integer",
+      "description": "Variação da métrica Body Battery no período (pode ser negativa).",
+      "minimum": -100,
+      "maximum": 100
+    },
+    "spo2_avg_pct": {
+      "type": "number",
+      "description": "Saturação média de oxigênio no sangue (%).",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "spo2_min_pct": {
+      "type": "number",
+      "description": "Saturação mínima de oxigênio no sangue (%).",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "resp_rate_avg_brpm": {
+      "type": "number",
+      "description": "Frequência respiratória média (respirações por minuto).",
+      "minimum": 0,
+      "maximum": 60
+    },
+    "resp_rate_min_brpm": {
+      "type": "number",
+      "description": "Frequência respiratória mínima (respirações por minuto).",
+      "minimum": 0,
+      "maximum": 60
+    },
+    "device": {
+      "type": "string",
+      "description": "Fonte principal do dado (ex.: Garmin Venu 3, Oura Ring)."
+    },
+    "notes": {
+      "type": "array",
+      "description": "Observações qualitativas relevantes para o período de sono e práticas BRH.",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "awakenings": {
+      "type": "array",
+      "description": "Detalhamento opcional de despertares relevantes durante a noite.",
+      "items": {
+        "type": "object",
+        "required": ["time"],
+        "additionalProperties": false,
+        "properties": {
+          "time": {
+            "type": "string",
+            "description": "Horário aproximado do despertar (hh:mm).",
+            "pattern": "^\\d{2}:\\d{2}$"
+          },
+          "reason": {
+            "type": "string",
+            "description": "Motivo percebido para o despertar (ex.: micção, calor, dor)."
+          },
+          "duration_min": {
+            "type": "integer",
+            "description": "Tempo aproximado acordada(o) em minutos.",
+            "minimum": 0,
+            "maximum": 180
+          }
+        }
+      }
+    },
+    "measurements": {
+      "type": "object",
+      "description": "Espaço para métricas adicionais normalizadas (ex.: HRV, temperatura, VAS).",
+      "additionalProperties": {
+        "type": ["number", "integer", "string"]
+      }
+    }
+  }
+}

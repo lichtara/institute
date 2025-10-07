@@ -23,6 +23,20 @@ Registros de práticas individuais organizados por data no formato `YYYY-MM-DD-s
 2. Referenciar anexos na seção **Anexos** do `.md` correspondente.
 3. Executar `make diarios-index` para atualizar o índice e este README.
 
+### Padronização dos dados de sono (JSON)
+
+- Registros objetivos devem ser salvos como `YYYY-MM-DD-dados.json` seguindo o schema `schema/sleep-entry.schema.json`.
+- Para validar rapidamente todos os arquivos utilizamos `tools/validate_sleep_reports.py`:
+
+  ```bash
+  # ambiente raiz de /institute
+  tools/validate_sleep_reports.py
+  # ou especificando outro diretório/glob
+  tools/validate_sleep_reports.py --glob 'analysis/reports/diarios/2025-*-dados.json'
+  ```
+- O schema define campos obrigatórios (ex.: `total_sleep_h`, `spo2_min_pct`, `resp_rate_avg_brpm`), limites e listas opcionais (`notes`, `awakenings`).
+- Campos adicionais podem ser acomodados em `measurements` para manter a padronização.
+
 ### 2025-09-26 — Sexta-feira (Folga Consciente)
 
 - **Body Battery final:** 30

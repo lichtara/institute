@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "data": "2025-10-05",
-  "start_time": "00:00",
-  "end_time": "00:00",
+  "start_time": "23:58",
+  "end_time": "09:47",
   "total_sleep_h": 9.717,
   "deep_h": 1.667,
   "light_h": 7.167,
@@ -13,8 +13,5 @@
   "spo2_avg_pct": 93,
   "spo2_min_pct": 77,
   "resp_rate_avg_brpm": 17,
-  "resp_rate_min_brpm": 14,
-  "notes": [
-    "Horários de início/fim indisponíveis no export desta data; placeholder 00:00."
-  ]
+  "resp_rate_min_brpm": 14
 }

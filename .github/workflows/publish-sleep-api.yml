@@ -1,0 +1,46 @@
+name: Build & Publish Sleep API
+
+on:
+  push:
+    paths:
+      - "analysis/reports/diarios_json/**"
+      - "schemas/sleep-v1.schema.json"
+      - "scripts/build_sleep_index.py"
+      - "tools/validate_sleep_reports.py"
+      - ".github/workflows/publish-sleep-api.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install --upgrade jsonschema
+      - name: Generate sleep API artifacts
+        run: |
+          rm -rf public_api
+          scripts/build_sleep_index.py \
+            --input analysis/reports/diarios_json \
+            --schema schemas/sleep-v1.schema.json \
+            --out public_api/sleep/v1
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public_api
+
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

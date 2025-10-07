@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://lichtara.org/schemas/sleep-entry.schema.json",
+  "$id": "https://lichtara.com/schemas/sleep-v1.schema.json",
   "title": "Registro de Sono e BRH (Entrada Diária)",
   "description": "Esquema de validação para registros diários de sono e métricas fisiológicas da Bio-Regulação Harmônica (BRH).",
   "type": "object",

@@ -257,7 +257,9 @@ make validate
 Registros diários em `analysis/reports/diarios/`:
 - Narrativa (`YYYY-MM-DD-diario.md`): sono, fisiologia, estresse/humor, observações
 - Anexos e gráficos (`*-fc.png`, `*-spo-sono.png`, etc.)
-- Dados estruturados (`data/sleep/YYYY-MM-DD.json`): métricas fisiológicas
+- Dados estruturados (`analysis/reports/diarios_json/YYYY-MM-DD-dados.json`): métricas fisiológicas validadas por `schemas/sleep-v1.schema.json`
+
+Os dados objetivos alimentam o script `scripts/build_sleep_index.py`, que gera a mini-API estática em `public_api/sleep/v1/` (`index.json`, `weekly.json`, `monthly.json`). O workflow `publish-sleep-api.yml` publica esses artefatos via GitHub Pages para consumo pelo portal Syntria.
 
 Permitem análise longitudinal e correlação com protocolos Lichtara (ex.: BRH).
 

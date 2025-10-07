@@ -10,8 +10,8 @@ from typing import Iterable
 
 from jsonschema import Draft202012Validator, ValidationError
 
-DEFAULT_SCHEMA = Path("analysis/reports/diarios/schema/sleep-entry.schema.json")
-DEFAULT_GLOB = "analysis/reports/diarios/*-dados.json"
+DEFAULT_SCHEMA = Path("schemas/sleep-v1.schema.json")
+DEFAULT_GLOB = "analysis/reports/diarios_json/*-dados.json"
 
 
 def find_files(pattern: str) -> Iterable[Path]:

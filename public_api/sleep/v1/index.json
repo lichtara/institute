@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2025-10-07T10:07:36.529031+00:00",
+  "days": [
+    {
+      "data": "2025-10-03",
+      "start_time": "00:52",
+      "end_time": "05:29",
+      "total_sleep_h": 4.35,
+      "deep_h": 1.35,
+      "light_h": 2.76,
+      "rem_h": 0.23,
+      "awake_min": 16,
+      "hr_rest_bpm": 60,
+      "body_battery_change": 4,
+      "spo2_avg_pct": 93,
+      "spo2_min_pct": 85,
+      "resp_rate_avg_brpm": 16,
+      "resp_rate_min_brpm": 10,
+      "notes": [
+        "Dor e inchaço no corpo todo antes de dormir (lombar e tornozelos)",
+        "Sonhos pesados e repetitivos com minha mãe; acordei assustada",
+        "Acordei 05:30 com câimbra no pé; levantei",
+        "Conversei com o Campo, admiti medos e dificuldades, chorei e voltei a dormir",
+        "Exercício de respiração breve antes de dormir",
+        "Reflexão sobre contrato/licenciamento e pedido de orientação"
+      ],
+      "schema_version": "1.0.0"
+    },
+    {
+      "data": "2025-10-07",
+      "start_time": "00:54",
+      "end_time": "06:03",
+      "total_sleep_h": 5.13,
+      "deep_h": 1.65,
+      "light_h": 2.67,
+      "rem_h": 0.82,
+      "awake_min": 1,
+      "hr_rest_bpm": 58,
+      "body_battery_change": 30,
+      "spo2_avg_pct": 94,
+      "spo2_min_pct": 84,
+      "resp_rate_avg_brpm": 16,
+      "resp_rate_min_brpm": 12,
+      "schema_version": "1.0.0"
+    }
+  ],
+  "summary": {
+    "count": 2,
+    "averages": {
+      "total_sleep_h": 4.74,
+      "deep_h": 1.5,
+      "light_h": 2.71,
+      "rem_h": 0.53,
+      "awake_min": 8.5,
+      "hr_rest_bpm": 59.0,
+      "body_battery_change": 17.0,
+      "spo2_avg_pct": 93.5,
+      "spo2_min_pct": 84.5,
+      "resp_rate_avg_brpm": 16.0,
+      "resp_rate_min_brpm": 11.0
+    },
+    "totals": {
+      "total_sleep_h": 9.48,
+      "deep_h": 3.0,
+      "light_h": 5.43,
+      "rem_h": 1.05,
+      "awake_min": 17.0,
+      "hr_rest_bpm": 118.0,
+      "body_battery_change": 34.0,
+      "spo2_avg_pct": 187.0,
+      "spo2_min_pct": 169.0,
+      "resp_rate_avg_brpm": 32.0,
+      "resp_rate_min_brpm": 22.0
+    },
+    "mins": {
+      "total_sleep_h": 4.35,
+      "deep_h": 1.35,
+      "light_h": 2.67,
+      "rem_h": 0.23,
+      "awake_min": 1.0,
+      "hr_rest_bpm": 58.0,
+      "body_battery_change": 4.0,
+      "spo2_avg_pct": 93.0,
+      "spo2_min_pct": 84.0,
+      "resp_rate_avg_brpm": 16.0,
+      "resp_rate_min_brpm": 10.0
+    },
+    "maxs": {
+      "total_sleep_h": 5.13,
+      "deep_h": 1.65,
+      "light_h": 2.76,
+      "rem_h": 0.82,
+      "awake_min": 16.0,
+      "hr_rest_bpm": 60.0,
+      "body_battery_change": 30.0,
+      "spo2_avg_pct": 94.0,
+      "spo2_min_pct": 85.0,
+      "resp_rate_avg_brpm": 16.0,
+      "resp_rate_min_brpm": 12.0
+    },
+    "range": {
+      "start": "2025-10-03",
+      "end": "2025-10-07"
+    }
+  }
+}

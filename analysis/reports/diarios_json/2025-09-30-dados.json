@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0.0",
+  "data": "2025-09-30",
+  "start_time": "00:56",
+  "end_time": "09:06",
+  "total_sleep_h": 8.15,
+  "deep_h": 1.983,
+  "light_h": 5.25,
+  "rem_h": 0.917,
+  "awake_min": 1,
+  "hr_rest_bpm": 55,
+  "body_battery_change": 32,
+  "spo2_avg_pct": 91,
+  "spo2_min_pct": 80,
+  "resp_rate_avg_brpm": 13,
+  "resp_rate_min_brpm": 6
+}

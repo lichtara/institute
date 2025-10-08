@@ -1,3 +1,5 @@
 # Dependências iniciais (a confirmar)
 matplotlib>=3.8
 jsonschema>=4.0
+pandas>=2.0
+matplotlib>=3.8

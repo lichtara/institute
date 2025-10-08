@@ -23,6 +23,25 @@ Registros de práticas individuais organizados por data no formato `YYYY-MM-DD-s
 2. Referenciar anexos na seção **Anexos** do `.md` correspondente.
 3. Executar `make diarios-index` para atualizar o índice e este README.
 
+### Padronização dos dados de sono (JSON)
+
+- Registros objetivos residem em `analysis/reports/diarios_json/` e seguem o padrão `YYYY-MM-DD-dados.json` validado por `schemas/sleep-v1.schema.json`.
+- Para validar rapidamente todos os arquivos utilizamos `tools/validate_sleep_reports.py`:
+
+  ```bash
+  # ambiente raiz de /institute
+  tools/validate_sleep_reports.py
+  # ou especificando outro diretório/glob
+  tools/validate_sleep_reports.py --glob 'analysis/reports/diarios_json/2025-*-dados.json'
+  ```
+- O schema define campos obrigatórios (ex.: `total_sleep_h`, `spo2_min_pct`, `resp_rate_avg_brpm`), limites e listas opcionais (`notes`, `awakenings`).
+- Campos adicionais podem ser acomodados em `measurements` para manter a padronização.
+
+### Mini-API pública
+
+- Execute `scripts/build_sleep_index.py` para gerar `public_api/sleep/v1/{index,weekly,monthly}.json`.
+- Em PRs/branches a pasta `public_api/` pode ser commitada para revisão; em `main` o workflow `publish-sleep-api.yml` publica via GitHub Pages.
+
 ### 2025-09-26 — Sexta-feira (Folga Consciente)
 
 - **Body Battery final:** 30

@@ -254,6 +254,7 @@ make validate
 
 ## 📝 Registros Diários de Saúde e Sono
 
+codex/propose-new-structure-for-daily-health-records
 Para acompanhar o bem-estar fisiológico de forma contínua, mantemos os registros diários
 na pasta `analysis/reports/diarios/`. Cada dia deve reunir, de maneira organizada, os
 seguintes componentes:
@@ -287,6 +288,14 @@ de processamento. Um exemplo resumido de arquivo é apresentado abaixo:
   "respiracao_media": "15 brpm"
 }
 ```
+=======
+Registros diários em `analysis/reports/diarios/`:
+- Narrativa (`YYYY-MM-DD-diario.md`): sono, fisiologia, estresse/humor, observações
+- Anexos e gráficos (`*-fc.png`, `*-spo-sono.png`, etc.)
+- Dados estruturados (`analysis/reports/diarios_json/YYYY-MM-DD-dados.json`): métricas fisiológicas validadas por `schemas/sleep-v1.schema.json`
+
+Os dados objetivos alimentam o script `scripts/build_sleep_index.py`, que gera a mini-API estática em `public_api/sleep/v1/` (`index.json`, `weekly.json`, `monthly.json`). O workflow `publish-sleep-api.yml` publica esses artefatos via GitHub Pages para consumo pelo portal Syntria.
+main
 
 Esses registros possibilitam análises longitudinais (por exemplo, correlação com
 protocolos de Bio-Regulação Harmônica) e devem permanecer restritos a

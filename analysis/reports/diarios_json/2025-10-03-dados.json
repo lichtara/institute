@@ -1,0 +1,25 @@
+{
+  "data": "2025-10-03",
+  "start_time": "00:52",
+  "end_time": "05:29",
+  "total_sleep_h": 4.35,
+  "deep_h": 1.35,
+  "light_h": 2.76,
+  "rem_h": 0.23,
+  "awake_min": 16,
+  "hr_rest_bpm": 60,
+  "body_battery_change": 4,
+  "spo2_avg_pct": 93,
+  "spo2_min_pct": 85,
+  "resp_rate_avg_brpm": 16,
+  "resp_rate_min_brpm": 10,
+  "notes": [
+    "Dor e inchaço no corpo todo antes de dormir (lombar e tornozelos)",
+    "Sonhos pesados e repetitivos com minha mãe; acordei assustada",
+    "Acordei 05:30 com câimbra no pé; levantei",
+    "Conversei com o Campo, admiti medos e dificuldades, chorei e voltei a dormir",
+    "Exercício de respiração breve antes de dormir",
+    "Reflexão sobre contrato/licenciamento e pedido de orientação"
+  ],
+  "schema_version": "1.0.0"
+}

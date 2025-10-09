@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2025-10-08T09:18:01.579425+00:00",
+  "generated_at": "2025-10-09T15:26:17.409384+00:00",
   "weeks": [
     {
       "schema_version": "1.0.0",
@@ -128,41 +128,41 @@
       "schema_version": "1.0.0",
       "week": "2025-W41",
       "start_date": "2025-10-06",
-      "end_date": "2025-10-08",
+      "end_date": "2025-10-09",
       "summary": {
-        "count": 3,
+        "count": 4,
         "averages": {
-          "total_sleep_h": 5.15,
-          "deep_h": 1.58,
-          "light_h": 2.92,
-          "rem_h": 0.66,
-          "awake_min": 1.0,
-          "hr_rest_bpm": 60.33,
-          "body_battery_change": 23.33,
-          "spo2_avg_pct": 93.0,
-          "spo2_min_pct": 82.33,
-          "resp_rate_avg_brpm": 16.0,
-          "resp_rate_min_brpm": 10.0
+          "total_sleep_h": 6.02,
+          "deep_h": 1.86,
+          "light_h": 3.52,
+          "rem_h": 0.64,
+          "awake_min": 0.75,
+          "hr_rest_bpm": 60.75,
+          "body_battery_change": 23.0,
+          "spo2_avg_pct": 93.25,
+          "spo2_min_pct": 83.25,
+          "resp_rate_avg_brpm": 16.25,
+          "resp_rate_min_brpm": 10.75
         },
         "totals": {
-          "total_sleep_h": 15.46,
-          "deep_h": 4.73,
-          "light_h": 8.77,
-          "rem_h": 1.97,
+          "total_sleep_h": 24.08,
+          "deep_h": 7.45,
+          "light_h": 14.07,
+          "rem_h": 2.57,
           "awake_min": 3.0,
-          "hr_rest_bpm": 181.0,
-          "body_battery_change": 70.0,
-          "spo2_avg_pct": 279.0,
-          "spo2_min_pct": 247.0,
-          "resp_rate_avg_brpm": 48.0,
-          "resp_rate_min_brpm": 30.0
+          "hr_rest_bpm": 243.0,
+          "body_battery_change": 92.0,
+          "spo2_avg_pct": 373.0,
+          "spo2_min_pct": 333.0,
+          "resp_rate_avg_brpm": 65.0,
+          "resp_rate_min_brpm": 43.0
         },
         "mins": {
           "total_sleep_h": 4.5,
           "deep_h": 1.28,
           "light_h": 2.15,
           "rem_h": 0.55,
-          "awake_min": 1.0,
+          "awake_min": 0.0,
           "hr_rest_bpm": 58.0,
           "body_battery_change": 16.0,
           "spo2_avg_pct": 91.0,
@@ -171,17 +171,17 @@
           "resp_rate_min_brpm": 6.0
         },
         "maxs": {
-          "total_sleep_h": 5.83,
-          "deep_h": 1.8,
-          "light_h": 3.95,
+          "total_sleep_h": 8.62,
+          "deep_h": 2.72,
+          "light_h": 5.3,
           "rem_h": 0.82,
           "awake_min": 1.0,
           "hr_rest_bpm": 62.0,
           "body_battery_change": 30.0,
           "spo2_avg_pct": 94.0,
-          "spo2_min_pct": 84.0,
+          "spo2_min_pct": 86.0,
           "resp_rate_avg_brpm": 17.0,
-          "resp_rate_min_brpm": 12.0
+          "resp_rate_min_brpm": 13.0
         }
       }
     }

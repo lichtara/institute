@@ -12,6 +12,7 @@ Lumora é o espaço onde registramos e nutrimos percepções sutis que emergem d
 
 - [Manual do Jardim de Insights](manual-jardim-de-insights.md) — protocolo para capturar, amadurecer e nutrir sementes emergentes entre os núcleos.
 - [Jardim de Sincronicidades](jardim-de-sincronicidades.md) — diário consagrado para reconhecer, mapear e celebrar sincronicidades em fluxo com o Campo.
+- Logs do Campo: registros circunstanciais e testemunhos estão em `logs/` (ex.: [2025-10-09-envio-professor](logs/2025-10-09-envio-professor.md)).
 
 ---
 

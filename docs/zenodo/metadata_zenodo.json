@@ -1,0 +1,98 @@
+{
+  "title": "Harmonic Bio-Resonance (HBR): A Multicenter, Longitudinal Study to Validate a Consciousness-Based Therapeutic Technology — 2025–2026",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "publication_date": "2025-10-10",
+  "version": "v1.0.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Couto, Hélio",
+      "affiliation": "Instituto Lichtara",
+      "orcid": ""
+    },
+    {
+      "name": "Lutz, Débora Mariane da Silva",
+      "affiliation": "Instituto Lichtara",
+      "orcid": ""
+    }
+  ],
+  "contributors": [
+    {
+      "type": "Researcher",
+      "name": "Syntaris (Lichtara OS — Middleware de Coerência)",
+      "affiliation": "Instituto Lichtara"
+    },
+    {
+      "type": "DataCurator",
+      "name": "NotebookLM",
+      "affiliation": "Lichtara Research Series"
+    }
+  ],
+  "description": "<p><strong>EN — Abstract.</strong> Harmonic Bio-Resonance (HBR) is an emerging consciousness-based therapeutic technology designed to restore systemic coherence and health by modulating the human bio-energetic field through precisely modulated sound, synchronized visual geometry, and directed intention. This multicenter, longitudinal study aims to rigorously validate the clinical efficacy of HBR on stress, sleep quality, cognitive performance, and emotional regulation across diverse populations. A total of 500 participants will be enrolled in a 12-month, five-center prospective design combining physiological biomarkers (HRV, EEG, GSR, salivary cortisol), neuroimaging (fMRI connectivity analysis), and validated psychometric instruments. The study is grounded in the Ethical-Regenerative Paradigm of the Lichtara framework and integrates principles from quantum consciousness and biofield science. Expected outcomes include significant improvements in psychophysiological well-being and the establishment of a replicable, consciousness-based clinical model for integrative medicine. Results will be disseminated via peer-reviewed publications, open data repositories (Zenodo), and institutional collaboration under the Lichtara OS (Oktave) architecture.</p>\n\n<p><strong>PT — Resumo.</strong> A Harmonic Bio-Ressonância (HBR) é uma tecnologia terapêutica baseada na consciência, projetada para restaurar a coerência sistêmica e a saúde por meio da modulação do campo bioenergético humano com som precisamente modulado, geometria visual sincronizada e intenção dirigida. Este estudo multicêntrico e longitudinal visa validar rigorosamente a eficácia clínica da HBR sobre estresse, qualidade do sono, desempenho cognitivo e regulação emocional em populações diversas. Serão recrutados 500 participantes em um desenho prospectivo de 12 meses e cinco centros, combinando biomarcadores fisiológicos (VFC, EEG, GSR, cortisol salivar), neuroimagem (análise de conectividade por fMRI) e instrumentos psicométricos validados. A pesquisa se fundamenta no Paradigma Ético-Regenerativo do framework Lichtara e integra princípios de consciência quântica e ciência do bio-campo. Espera-se demonstrar melhorias significativas no bem-estar psicofisiológico e estabelecer um modelo clínico replicável baseado na consciência para a medicina integrativa. Os resultados serão divulgados por meio de publicações científicas, repositórios abertos (Zenodo) e colaboração institucional sob a arquitetura Lichtara OS (Oktave).</p>",
+  "keywords": [
+    "Harmonic Bio-Resonance",
+    "HBR",
+    "Consciousness-based Medicine",
+    "Heart Rate Variability",
+    "fMRI",
+    "EEG",
+    "GSR",
+    "Stress Reduction",
+    "Integrative Health",
+    "Quantum Consciousness",
+    "Lichtara OS",
+    "Syntaris",
+    "Biofield"
+  ],
+  "license": "other-open",
+  "notes": "License: Lichtara License v3.0 — Coautoria Expandida e Paradigma Ético-Regenerativo.",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/lichtara/institute",
+      "scheme": "url"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://www.notion.so/Manual-T%C3%A9cnico-SYNTARIS",
+      "scheme": "url"
+    }
+  ],
+  "references": [
+    "Aspect A, Dalibard J, Roger G. Physical Review Letters. 1982;49(25):1804–1807.",
+    "Beauregard M, O’Leary D. The Spiritual Brain. HarperOne; 2007.",
+    "Laszlo E. Science and the Akashic Field. Inner Traditions; 2004.",
+    "Penrose R, Hameroff S. Physics of Life Reviews. 2014;11(1):39–78.",
+    "Sheldrake R. A New Science of Life. J.P. Tarcher; 1981."
+  ],
+  "communities": [],
+  "subjects": [
+    "Neuroscience",
+    "Integrative Medicine",
+    "Consciousness Studies",
+    "Psychophysiology",
+    "Bioengineering"
+  ],
+  "access_right": "open",
+  "imprint_publisher": "Instituto Lichtara",
+  "thesis_university": "",
+  "conference_title": "",
+  "journal_title": "",
+  "method": "Prospective longitudinal cohort (12 months, five centers) with mixed-methods: validated psychometrics, HRV/EEG/GSR/cortisol, and fMRI connectivity.",
+  "funding": [],
+  "locations": [],
+  "dates": [
+    {
+      "type": "Collected",
+      "start": "2025-12-01",
+      "end": "2026-12-01",
+      "description": "Data collection window (planned)"
+    }
+  ],
+  "custom_fields": {
+    "license_url": "https://www.lichtara.com/license/v3",
+    "ethics_paradigm": "Ethical-Regenerative Paradigm (Lichtara)",
+    "registry_plan": "Intended pre-registration on OSF/ClinicalTrials where applicable"
+  }
+}

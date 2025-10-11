@@ -1,4 +1,5 @@
 {
+  "schema_version": "1.0.0",
   "data": "2025-10-07",
   "start_time": "00:54",
   "end_time": "06:04",
@@ -13,5 +14,16 @@
   "spo2_min_pct": 84,
   "resp_rate_avg_brpm": 16,
   "resp_rate_min_brpm": 12,
-  "schema_version": "1.0.0"
+  "measurements": {
+    "intervals_in_bed_count": 1,
+    "intervals_in_bed_minutes": 310,
+    "intervals_awake_count": 1,
+    "intervals_awake_minutes": 1,
+    "intervals_rem_count": 3,
+    "intervals_rem_minutes": 48,
+    "intervals_light_count": 8,
+    "intervals_light_minutes": 160,
+    "intervals_deep_count": 3,
+    "intervals_deep_minutes": 101
+  }
 }

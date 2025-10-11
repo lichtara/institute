@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "data": "2025-10-11",
+  "start_time": "00:08",
+  "end_time": "09:30",
+  "total_sleep_h": 8.88,
+  "deep_h": 2.68,
+  "light_h": 5.62,
+  "rem_h": 0.58,
+  "awake_min": 29,
+  "hr_rest_bpm": 58,
+  "body_battery_change": 57,
+  "spo2_avg_pct": 92,
+  "spo2_min_pct": 82,
+  "resp_rate_avg_brpm": 16,
+  "resp_rate_min_brpm": 10,
+  "measurements": {
+    "intervals_in_bed_count": 1,
+    "intervals_in_bed_minutes": 562,
+    "intervals_awake_count": 5,
+    "intervals_awake_minutes": 20,
+    "intervals_rem_count": 5,
+    "intervals_rem_minutes": 38,
+    "intervals_light_count": 13,
+    "intervals_light_minutes": 369,
+    "intervals_deep_count": 5,
+    "intervals_deep_minutes": 135
+  }
+}

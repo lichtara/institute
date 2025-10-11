@@ -13,5 +13,15 @@
   "spo2_avg_pct": 94,
   "spo2_min_pct": 86,
   "resp_rate_avg_brpm": 17,
-  "resp_rate_min_brpm": 13
+  "resp_rate_min_brpm": 13,
+  "measurements": {
+    "intervals_in_bed_count": 1,
+    "intervals_in_bed_minutes": 521,
+    "intervals_rem_count": 3,
+    "intervals_rem_minutes": 18,
+    "intervals_light_count": 10,
+    "intervals_light_minutes": 395,
+    "intervals_deep_count": 7,
+    "intervals_deep_minutes": 108
+  }
 }

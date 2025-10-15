@@ -1,0 +1,30 @@
+{
+  "title": "Estatuto Básico do Instituto Lichtara",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "publication_date": "2025-10-01",
+  "creators": [
+    {"name": "Instituto Lichtara", "affiliation": "Palhoça, Brasil"}
+  ],
+  "description": "Documento fundacional que estabelece denominação, finalidade, estrutura e princípios de governança do Instituto Lichtara. Versão publicada em 2025, alinhada ao Regimento Interno e à legislação aplicável.",
+  "language": "por",
+  "keywords": [
+    "estatuto",
+    "governança",
+    "instituto lichtara",
+    "lichtara license"
+  ],
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.17361481",
+      "relation": "isPartOf",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Converter `docs/estatuto-basico.md` para PDF/A antes do upload; anexar versões em inglês se disponíveis.",
+  "communities": [
+    {"identifier": "zenodo"}
+  ]
+}

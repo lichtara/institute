@@ -1,0 +1,31 @@
+{
+  "title": "Pesquisa Científica em Bio-Ressonância Harmônica (2025)",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "publication_date": "2025-10-01",
+  "creators": [
+    {"name": "Lutz, Débora", "affiliation": "Instituto Lichtara"}
+  ],
+  "description": "Relatório científico consolidado da investigação sobre Bio-Ressonância Harmônica: contexto teórico, objetivos, metodologia mista (HRV, EEG, GSR, cortisol, escalas psicológicas), resultados e implicações. Origem: `docs/pesquisa-bio-ressonancia-harmonica.md`.",
+  "language": "por",
+  "keywords": [
+    "bio-ressonância harmônica",
+    "pesquisa científica",
+    "harmonic bio-resonance",
+    "tecnologias vibracionais",
+    "estudo longitudinal"
+  ],
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.17361481",
+      "relation": "isPartOf",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Adicionar anexos de dados ou referências para scripts de análise (ex.: `analysis/` pipelines) e gerar versão PDF/A.",
+  "communities": [
+    {"identifier": "zenodo"}
+  ]
+}

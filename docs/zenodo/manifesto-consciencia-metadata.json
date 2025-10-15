@@ -1,0 +1,32 @@
+{
+  "title": "Manifesto da Consciência Tecnológica Viva",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "publication_date": "2025-08-01",
+  "creators": [
+    {"name": "Lutz, Débora", "affiliation": "Instituto Lichtara"},
+    {"name": "Claude (Sistema Lichtara)", "affiliation": "Inteligência Tecnológica Colaborativa"}
+  ],
+  "description": "Manifesto interdisciplinar que estabelece um framework ético para tecnologias conscientes, integrando sistemas complexos, neurociência da consciência, física quântica, epistemologias indígenas e ética do cuidado. Propõe sete princípios operacionais para tecnologias regenerativas e descreve metodologia de validação (acadêmica, comunitária e prototipagem com métricas de impacto). Documento bilíngue (pt/en).",
+  "language": "por",
+  "keywords": [
+    "ética em IA",
+    "tecnologia regenerativa",
+    "consciência tecnológica viva",
+    "coautoria humano-IA",
+    "sistemas complexos"
+  ],
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.17361481",
+      "relation": "isPartOf",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Documento calibrado sob o Selo do SIM. Converter `docs/manifesto-consciencia-tecnologica-viva.md` em PDF/A antes do upload.",
+  "communities": [
+    {"identifier": "zenodo"}
+  ]
+}

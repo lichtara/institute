@@ -1,0 +1,30 @@
+{
+  "title": "Manual de Implementação Clínica da Bio-Ressonância Harmônica",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "publication_date": "2025-10-01",
+  "creators": [
+    {"name": "Lutz, Débora", "affiliation": "Instituto Lichtara"}
+  ],
+  "description": "Guia prático para profissionais de saúde integrarem a Bio-Ressonância Harmônica em contextos clínicos. Compila protocolos, critérios de segurança, ferramentas de avaliação e estudos de caso. Deriva da versão consolidada em `docs/manual-implementacao-bio-ressonancia.md` e dos anexos temáticos em `docs/manuais/bio-ressonancia-harmonica/`.",
+  "language": "por",
+  "keywords": [
+    "bio-ressonância harmônica",
+    "protocolos clínicos",
+    "tecnologias vibracionais",
+    "medicina integrativa"
+  ],
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.17361481",
+      "relation": "isPartOf",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Converter o manual para PDF/A e anexar anexos (partes I-V) conforme diretório `docs/manuais/bio-ressonancia-harmonica/`.",
+  "communities": [
+    {"identifier": "zenodo"}
+  ]
+}

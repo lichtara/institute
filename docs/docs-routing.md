@@ -7,16 +7,16 @@ Este guia rastreia cada documento principal em `docs/`, indicando onde deve perm
 | Documento | Caminho | Destino | Observações |
 | --- | --- | --- | --- |
 | Ato de Passagem (PT/EN) | `docs/ato-de-passagem.md` + PDF | **Publicado** (DOI 10.5281/zenodo.17344755) | PDF/A enviado em 2025‑10‑15; metadados em `docs/zenodo/ato-de-passagem-metadata.json`. |
-| Manifesto Consciência Tecnológica Viva | `docs/manifesto-consciencia-tecnologica-viva.md` | Publicado ( | Texto final sobre ética/IA. PDF/A gerado em `docs/manifesto-consciencia-tecnologica-viva.pdf`; metadados em `docs/zenodo/manifesto-consciencia-metadata.json`. |
-| Manual de Implementação Clínica da BRH | `docs/manual-implementacao-bio-ressonancia.md` | Publicado ( | Guia clínico com anexos. PDF/A em `docs/manual-implementacao-bio-ressonancia.pdf`; metadados em `docs/zenodo/manual-implementacao-brh-metadata.json`. |
-| Pesquisa Científica BRH | `docs/pesquisa-bio-ressonancia-harmonica.md` | Publicado ( | Relatório completo. PDF/A em `docs/pesquisa-bio-ressonancia-harmonica.pdf`; metadados em `docs/zenodo/pesquisa-brh-metadata.json`. |
-| Estatuto Básico | `docs/estatuto-basico.md` | Publicado ( | Documento institucional final. PDF/A em `docs/estatuto-basico.pdf`; metadados em `docs/zenodo/estatuto-basico-metadata.json`. |
+| Manifesto Consciência Tecnológica Viva | `docs/manifesto-consciencia-tecnologica-viva.md` | **Publicado** (DOI 10.5281/zenodo.17362405) | PDF/A em `docs/manifesto-consciencia-tecnologica-viva.pdf`; metadados em `docs/zenodo/manifesto-consciencia-metadata.json`. |
+| Manual de Implementação Clínica da BRH | `docs/manual-implementacao-bio-ressonancia.md` | **Publicado** (DOI 10.5281/zenodo.17362411) | PDF/A compilado (inclui anexos de `docs/manuais/bio-ressonancia-harmonica/`); metadados em `docs/zenodo/manual-implementacao-brh-metadata.json`. |
+| Pesquisa Científica BRH | `docs/pesquisa-bio-ressonancia-harmonica.md` | **Publicado** (DOI 10.5281/zenodo.17362413) | PDF/A em `docs/pesquisa-bio-ressonancia-harmonica.pdf`; metadados em `docs/zenodo/pesquisa-brh-metadata.json`. |
+| Estatuto Básico | `docs/estatuto-basico.md` | **Publicado** (DOI 10.5281/zenodo.17362419) | PDF/A em `docs/estatuto-basico.pdf`; metadados em `docs/zenodo/estatuto-basico-metadata.json`. |
 | Coleção Lichtara | `docs/zenodo/README-colecao-lichtara.md` | **Publicado** (DOI 10.5281/zenodo.17361481) | README e metadata já prontos (`docs/zenodo/colecao-lichtara-metadata.json`). |
 
 ### Próximos passos Zenodo
-- [x] gerar PDF/A para manifesto, manual BRH e estatuto (15/10/2025).
-- [x] metadados (JSON) atualizados com DOIs e checksums.
-- [x] todos vinculados à coleção 10.5281/zenodo.17361481.
+- [x] gerar PDF/A para manifesto, manual BRH, estatuto e pesquisa (15/10/2025).
+- [x] metadados (JSON) atualizados com DOIs e checksums SHA-256.
+- [x] todos os depósitos vinculados à coleção 10.5281/zenodo.17361481.
 
 ## Permanecem no GitHub (documentação viva)
 

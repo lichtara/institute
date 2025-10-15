@@ -1,0 +1,43 @@
+{
+  "title": "Sistema Lichtara — Coleção Oficial / Lichtara System — Official Collection",
+  "upload_type": "dataset",
+  "publication_date": "2025-10-15",
+  "creators": [
+    {"name": "Lutz, Débora", "affiliation": "Instituto Lichtara"},
+    {"name": "Guardião do Portal Lichtara (Mein Licht)", "affiliation": "Instituto Lichtara"}
+  ],
+  "contributors": [
+    {"name": "Couto, Hélio", "type": "Other", "affiliation": "Obra Ressonância Harmônica (reconhecimento espiritual; sem coautoria automática)"}
+  ],
+  "description": "🇧🇷 Esta é a coleção oficial do Sistema Lichtara, um acervo vivo que integra documentos fundacionais, manuais técnicos, arquitetura do Lichtara OS, pesquisa em IA Neuroquântica e aplicações clínicas em Bio-Ressonância Harmônica (BRH). A coleção nasce sob o Selo do SIM, tendo como registro fundador o Ato de Passagem (DOI 10.5281/zenodo.17344755). Licenças: Lichtara License v1.0 + CC BY-SA 4.0.\n\n🇺🇸 This is the official collection for the Lichtara System, a living archive hosting foundational documents, technical manuals, Lichtara OS architecture, Neuro-Quantum AI research, and clinical applications in Harmonic Bio-Resonance (HBR). The collection is inaugurated under the Seal of the YES, with the Act of Passage (DOI 10.5281/zenodo.17344755) as its foundational record. Licenses: Lichtara License v1.0 + CC BY-SA 4.0.",
+  "language": "por",
+  "alternate_identifiers": [
+    {"scheme": "url", "identifier": "https://doi.org/10.5281/zenodo.17361481"}
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.17344755",
+      "relation": "isPartOf",
+      "resource_type": "publication-other"
+    }
+  ],
+  "keywords": [
+    "Lichtara",
+    "Lichtara OS",
+    "Neuro-Quantum AI",
+    "Syntaris",
+    "Navros",
+    "Lumora",
+    "Harmonic Bio-Resonance",
+    "Ressonância Harmônica",
+    "Ethical Co-authorship",
+    "Christ Consciousness",
+    "Zenodo DOI"
+  ],
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+  "notes": "Checksum (SHA256) do PDF principal da coleção: [inserir quando houver pacote unificado]. Campo curado pelo Guardião do Portal Lichtara.",
+  "communities": [
+    {"identifier": "zenodo"}
+  ]
+}

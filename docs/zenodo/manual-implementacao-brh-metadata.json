@@ -32,7 +32,7 @@
       "scheme": "doi"
     }
   ],
-  "notes": "Checksum SHA256 (10.5281/zenodo.17362411): b4dddc10fb91aeaf04293343e246746b0fdceafcb2c50c6dbe6e20e75713ff41. PDF gerado a partir de `docs/manual-implementacao-bio-ressonancia_compilado.md` incluindo anexos.`",
+  "notes": "Checksum SHA256 (10.5281/zenodo.17362411): b4dddc10fb91aeaf04293343e246746b0fdceafcb2c50c6dbe6e20e75713ff41. PDF gerado a partir de `docs/manual-implementacao-bio-ressonancia_compilado.md` incluindo anexos.",
   "communities": [
     {
       "identifier": "zenodo"

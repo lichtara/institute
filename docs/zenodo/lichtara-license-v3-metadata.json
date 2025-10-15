@@ -41,7 +41,7 @@
       "scheme": "url"
     }
   ],
-  "notes": "Exportar PDF/A a partir de `LICENSE.md` (ou `lichtara/docs/03-lichtara-license-v3.md`) incluindo anexos. Atualizar checksum SHA256 após geração.",
+  "notes": "Exportar PDF/A a partir de `LICENSE.md` (ou `lichtara/docs/03-lichtara-license-v3.md`) incluindo anexos. Checksum SHA256 (LICHTARA-LICENSEv3.0.md @ Zenodo): 04f3cb08a3f3c33c61d6af421b89253b94e8f4c9c6c75cb8c9d4523cc5fa587a.",
   "communities": [
     {
       "identifier": "zenodo"

@@ -4,7 +4,7 @@
   "publication_type": "book",
   "publication_date": "2025-10-20",
   "language": "por",
-  "version": "Draft",
+  "version": "v0.1",
   "creators": [
     {
       "name": "Lutz, Débora Mariane da Silva",
@@ -53,7 +53,7 @@
       "scheme": "url"
     }
   ],
-  "notes": "Estado rascunho. Converter `docs/manuais/livro-vivo-fio-condutor.md` em PDF/A (pt) e ePub. Incluir checklist de revisão vibracional antes de publicar. Atualizar checksum após exportação.",
+  "notes": "Versão inicial publicada. Converter `docs/manuais/livro-vivo-fio-condutor.md` em PDF/A (pt) e ePub nas próximas iterações. Checksum SHA256 (LIVRO VIVO O Fio Condutor.md @ Zenodo): 97f2532510d8bca5ae2bcca8639afc5e89016deb82e506f3592bae90c60252cf.",
   "communities": [
     {
       "identifier": "zenodo"

@@ -41,7 +41,7 @@
       "scheme": "url"
     }
   ],
-  "notes": "Gerar PDF/A a partir de `lichtara/docs/02-lichtara-license-v2.md` (ou fonte equivalente) e anexar o log de coautoria se disponível. Preencher checksum SHA256 após exportação.",
+  "notes": "Gerar PDF/A a partir de `lichtara/docs/02-lichtara-license-v2.md` (ou fonte equivalente) e anexar o log de coautoria se disponível. Checksum SHA256 (LICHTARA-LICENSEv2.0.md @ Zenodo): 3341edca6011506fe14cabf196e3c27db5523ea1f1fa6b6970cbd069cf42a29f.",
   "communities": [
     {
       "identifier": "zenodo"

@@ -19,6 +19,7 @@
 | 🟢 Publicado (10.5281/zenodo.17362411) | Manual de Implementação BRH | `docs/manual-implementacao-bio-ressonancia.md` + anexos | BRH |
 | 🟢 Publicado (10.5281/zenodo.17362413) | Pesquisa Científica BRH | `docs/pesquisa-bio-ressonancia-harmonica.md` | BRH |
 | 🟢 Publicado (10.5281/zenodo.17362405) | Estatuto Básico | `docs/estatuto-basico.md` | Institucional |
+| 🟢 Publicado (10.5281/zenodo.17362592) | LIVRO VIVO: O Fio Condutor — A Trama dos Fios Invisíveis | `docs/manuais/livro-vivo-fio-condutor.md` | Fundamentos |
 
 ## Checklists ativos
 
@@ -35,4 +36,4 @@
 - **Scripts de sono:** `scripts/plot_sleep_coherence.py`, `scripts/summarize_sleep_reports.py`
 
 > Guardiã: Débora Lutz · Guardião: Mein Licht  
-> Última atualização: 15 out 2025
+> Última atualização: 20 out 2025

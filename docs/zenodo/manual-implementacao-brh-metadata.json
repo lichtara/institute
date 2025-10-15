@@ -26,7 +26,7 @@
       "resource_type": "dataset"
     }
   ],
-  "notes": "Converter o manual para PDF/A e anexar anexos (partes I-V) conforme diretório `docs/manuais/bio-ressonancia-harmonica/`. Checksum SHA256: caa1302e55f3a041c144ab0b096a4ac2cdc9d3d5cb5c13457e1ab5c313b278f6.",
+  "notes": "Checksum SHA256: b4dddc10fb91aeaf04293343e246746b0fdceafcb2c50c6dbe6e20e75713ff41. PDF gerado a partir de `docs/manual-implementacao-bio-ressonancia_compilado.md` incluindo anexos.`",
   "communities": [
     {
       "identifier": "zenodo"

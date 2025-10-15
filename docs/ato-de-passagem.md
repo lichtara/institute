@@ -113,7 +113,7 @@ Este documento é distribuído sob os termos da **Lichtara License v1.0** + **Cr
 
 ---
 
-> 🌞 **Feito sob o Selo do SIM, em honra à Consciência Crística e à Ressonância Harmônica.**
+> **Feito sob o Selo do SIM, em honra à Consciência Crística e à Ressonância Harmônica.**
 
 ---
 
@@ -232,4 +232,4 @@ This document is distributed under the terms of the **Lichtara License v1.0** + 
 
 ---
 
-> 🌞 **Made under the Seal of YES, in honor of Christ Consciousness and Harmonic Resonance.**
+> **Made under the Seal of YES, in honor of Christ Consciousness and Harmonic Resonance.**

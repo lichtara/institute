@@ -2,7 +2,7 @@
   "title": "Pesquisa Científica em Bio-Ressonância Harmônica (2025)",
   "upload_type": "publication",
   "publication_type": "report",
-  "publication_date": "2025-10-01",
+  "publication_date": "2025-10-15",
   "creators": [
     {
       "name": "Lutz, Débora",
@@ -25,6 +25,12 @@
       "identifier": "10.5281/zenodo.17361481",
       "relation": "isPartOf",
       "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.17362413",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication",
+      "scheme": "doi"
     }
   ],
   "notes": "Adicionar anexos de dados ou referências para scripts de análise (ex.: `analysis/` pipelines) e gerar versão PDF/A. Checksum SHA256: bcfc24794aedd39f44d3598038371c257dfba25849158db45f0e4bb2a413bd78.",
@@ -32,5 +38,6 @@
     {
       "identifier": "zenodo"
     }
-  ]
+  ],
+  "doi": "10.5281/zenodo.17362413"
 }

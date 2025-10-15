@@ -2,7 +2,7 @@
   "title": "Manual de Implementação Clínica da Bio-Ressonância Harmônica",
   "upload_type": "publication",
   "publication_type": "book",
-  "publication_date": "2025-10-01",
+  "publication_date": "2025-10-15",
   "creators": [
     {
       "name": "Lutz, Débora",
@@ -24,6 +24,12 @@
       "identifier": "10.5281/zenodo.17361481",
       "relation": "isPartOf",
       "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.17362411",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication",
+      "scheme": "doi"
     }
   ],
   "notes": "Checksum SHA256: b4dddc10fb91aeaf04293343e246746b0fdceafcb2c50c6dbe6e20e75713ff41. PDF gerado a partir de `docs/manual-implementacao-bio-ressonancia_compilado.md` incluindo anexos.`",
@@ -31,5 +37,6 @@
     {
       "identifier": "zenodo"
     }
-  ]
+  ],
+  "doi": "10.5281/zenodo.17362411"
 }

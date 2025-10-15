@@ -2,7 +2,7 @@
   "title": "Estatuto Básico do Instituto Lichtara",
   "upload_type": "publication",
   "publication_type": "report",
-  "publication_date": "2025-10-01",
+  "publication_date": "2025-10-15",
   "creators": [
     {
       "name": "Instituto Lichtara",
@@ -24,6 +24,12 @@
       "identifier": "10.5281/zenodo.17361481",
       "relation": "isPartOf",
       "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.17362419",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication",
+      "scheme": "doi"
     }
   ],
   "notes": "Converter `docs/estatuto-basico.md` para PDF/A antes do upload; anexar versões em inglês se disponíveis. Checksum SHA256: b82dc56139aa65d30db5b77fd6aa9b24bb7539b3edf673f256f0b77c42c022ce.",
@@ -31,5 +37,6 @@
     {
       "identifier": "zenodo"
     }
-  ]
+  ],
+  "doi": "10.5281/zenodo.17362419"
 }

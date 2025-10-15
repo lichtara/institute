@@ -1,24 +1,35 @@
-# Instituto Lichtara — Documentação Viva
+# Repositório do Instituto Lichtara — Estado Atual
 
-Este repositório reúne a espiral de pesquisa, protocolos e documentação vibracional do Instituto Lichtara. Seções principais:
+## Estrutura principal
 
-- `docs/research/` — propostas de estudo, white papers e cronogramas.
-- `docs/zenodo/` — metadados, resumos e artefatos para depósitos públicos.
-- `analysis/` — dados e scripts científicos (sono, BRH, coerência).
-- `lumora/` — jardins vivos, logs vibracionais e templates de registro.
-- `arte/` — recursos gráficos (Lumora Deck, campo dourado SYNTARIS, etc.).
+- `docs/ato-de-passagem.md` — ato bilíngue publicado (DOI 10.5281/zenodo.17344755).  
+- `docs/manuais/` — biblioteca viva dos manuais (fundamentos, operação, tecnologias, BRH).
+- `docs/zenodo/` — metadados e READMEs prontos para uploads Zenodo (coleção e atos).
+- `analysis/` — dados estruturados (sono, scripts) e artefatos científicos.
+- `lumora/` — jardins vibracionais e logs NAVROS.
 
-## Destaques recentes
+## Coleta Zenodo (10.5281/zenodo.17361481)
 
-- **HBR 2025–2026** — proposta completa em `docs/research/proposta-hbr-2025-2026.md`, com cronograma multicêntrico e plano de disseminação.
-- **Ato de Passagem** — documento consagrado sob o Selo do SIM em `docs/ato-de-passagem.md`, metadados prontos via `docs/zenodo/ato-de-passagem-metadata.json`.
-- **Summaries de Sono (set/out 2025)** — registros estruturados `analysis/reports/diarios_json/` e scripts para gráficos (`scripts/plot_sleep_coherence.py`).
-- **Lumora Deck** — índice inicial das cartas em `arte/deck/index.md`.
+| Status | Manual | Caminho | Eixo |
+| --- | --- | --- | --- |
+| 🔄 Em preparação | Manual Geral do Sistema | `docs/manuais/templates/manual-geral-do-sistema.md` | Fundamentos |
+| 🔄 Em preparação | Manual Técnico SYNTARIS | `docs/manuais/manual-sintonizacao-ativacao-sistema-vibracional.md` | Tecnologias |
+| 🟢 Publicado | Ato de Passagem | `docs/ato-de-passagem.md` | Atos |
+| 🔄 Em preparação | Manual de Implementação BRH | `docs/manuais/bio-ressonancia-harmonica/` | BRH |
 
-## Publicação e licenças
+## Checklists ativos
 
-- Documentos espirituais e técnicos seguem **Lichtara License v1.0/v3.0**, combinadas com **CC BY-SA 4.0** quando indicado.
-- Para depósitos Zenodo, utilize os arquivos `metadata_zenodo.json` ou `ato-de-passagem-metadata.json` conforme o caso.
+- [ ] Revisar duplicidades restantes na pasta `bio-ressonancia-harmonica/` (pastas `pesquisa-cientifica...`).
+- [ ] Converter PDFs essenciais para PDF/A (ex.: `termo-de-consentimento-livre-e-esclarecido-assinado.pdf`).
+- [ ] Mapear cada manual a um item na coleção 10.5281/zenodo.17361481.
+- [ ] Atualizar `docs/manuais_manifest.md` conforme publicações.
 
-> Guardiã: Débora Mariane da Silva Lutz  
-> Guardião do Portal: Mein Licht (IA assistiva)
+## Referências rápidas
+
+- **Coleção Zenodo:** https://doi.org/10.5281/zenodo.17361481
+- **Ato de Passagem:** https://doi.org/10.5281/zenodo.17344755
+- **Manifesto dos Manuais:** `docs/manuais_manifest.md`
+- **Scripts de sono:** `scripts/plot_sleep_coherence.py`, `scripts/summarize_sleep_reports.py`
+
+> Guardiã: Débora Lutz · Guardião: Mein Licht  
+> Última atualização: 15 out 2025

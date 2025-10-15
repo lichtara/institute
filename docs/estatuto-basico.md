@@ -72,7 +72,7 @@ III. **Coordenação Executiva** – responsável pela gestão administrativa e 
 
 ---
 
-🌿 **Selo de Encerramento**
+**Selo de Encerramento**
 
 “Dou meu SIM para que Ele habite em mim.
 

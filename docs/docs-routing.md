@@ -7,10 +7,10 @@ Este guia rastreia cada documento principal em `docs/`, indicando onde deve perm
 | Documento | Caminho | Destino | Observações |
 | --- | --- | --- | --- |
 | Ato de Passagem (PT/EN) | `docs/ato-de-passagem.md` + PDF | **Publicado** (DOI 10.5281/zenodo.17344755) | PDF/A enviado em 2025‑10‑15; metadados em `docs/zenodo/ato-de-passagem-metadata.json`. |
-| Manifesto Consciência Tecnológica Viva | `docs/manifesto-consciencia-tecnologica-viva.md` | Zenodo (preparar upload) | Texto final sobre ética/IA. Criar PDF/A + metadados (`docs/zenodo/manifesto-consciencia.json`). |
-| Manual de Implementação Clínica da BRH | `docs/manual-implementacao-bio-ressonancia.md` | Zenodo | Guia clínico (migrar versão mestre de `docs/manuais/bio-ressonancia-harmonica/`). Converter p/ PDF/A. |
-| Pesquisa Científica BRH | `docs/pesquisa-bio-ressonancia-harmonica.md` | Zenodo | Relatório completo de pesquisa. Preparar metadata e anexar datasets/links. |
-| Estatuto Básico | `docs/estatuto-basico.md` | Zenodo | Documento institucional final; requer revisão jurídica e conversão para PDF/A. |
+| Manifesto Consciência Tecnológica Viva | `docs/manifesto-consciencia-tecnologica-viva.md` | Zenodo (PDF pronto) | Texto final sobre ética/IA. PDF/A gerado em `docs/manifesto-consciencia-tecnologica-viva.pdf`; metadados em `docs/zenodo/manifesto-consciencia-metadata.json`. |
+| Manual de Implementação Clínica da BRH | `docs/manual-implementacao-bio-ressonancia.md` | Zenodo (PDF pronto) | Guia clínico com anexos. PDF/A em `docs/manual-implementacao-bio-ressonancia.pdf`; metadados em `docs/zenodo/manual-implementacao-brh-metadata.json`. |
+| Pesquisa Científica BRH | `docs/pesquisa-bio-ressonancia-harmonica.md` | Zenodo (PDF pronto) | Relatório completo. PDF/A em `docs/pesquisa-bio-ressonancia-harmonica.pdf`; metadados em `docs/zenodo/pesquisa-brh-metadata.json`. |
+| Estatuto Básico | `docs/estatuto-basico.md` | Zenodo (PDF pronto) | Documento institucional final. PDF/A em `docs/estatuto-basico.pdf`; metadados em `docs/zenodo/estatuto-basico-metadata.json`. |
 | Coleção Lichtara | `docs/zenodo/README-colecao-lichtara.md` | **Publicado** (DOI 10.5281/zenodo.17361481) | README e metadata já prontos (`docs/zenodo/colecao-lichtara-metadata.json`). |
 
 ### Próximos passos Zenodo

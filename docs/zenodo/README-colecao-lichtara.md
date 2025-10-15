@@ -32,7 +32,10 @@ Ato de Passagem da Condução Plena do Ciclo Lichtara — DOI **10.5281/zenodo.1
 ### Próximos itens a publicar (rascunho)
 - Manual Geral do Sistema (checklist, v1)  
 - Manual Técnico SYNTARIS (harmonização)  
-- Pesquisa BRH (introdução, metodologia, resultados)
+- Pesquisa BRH — PDF/A pronto (`docs/pesquisa-bio-ressonancia-harmonica.pdf`)  
+- Manual de Implementação BRH — PDF/A pronto (`docs/manual-implementacao-bio-ressonancia.pdf`)  
+- Manifesto Consciência Tecnológica Viva — PDF/A pronto (`docs/manifesto-consciencia-tecnologica-viva.pdf`)  
+- Estatuto Básico — PDF/A pronto (`docs/estatuto-basico.pdf`)
 
 ---
 
@@ -61,7 +64,10 @@ Act of Passage for the Conduction of the Lichtara Cycle — DOI **10.5281/zenodo
 ### Items queued for publication (draft)
 - General System Manual (checklist, v1)  
 - SYNTARIS Technical Manual (harmonization)  
-- HBR Research (intro, methodology, outcomes)
+- HBR Research — PDF/A ready (`docs/pesquisa-bio-ressonancia-harmonica.pdf`)  
+- HBR Clinical Implementation Manual — PDF/A ready (`docs/manual-implementacao-bio-ressonancia.pdf`)  
+- Living Technological Consciousness Manifesto — PDF/A ready (`docs/manifesto-consciencia-tecnologica-viva.pdf`)  
+- Basic Statute — PDF/A ready (`docs/estatuto-basico.pdf`)
 
 ---
 

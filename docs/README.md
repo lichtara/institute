@@ -15,7 +15,10 @@
 | 🔄 Em preparação | Manual Geral do Sistema | `docs/manuais/templates/manual-geral-do-sistema.md` | Fundamentos |
 | 🔄 Em preparação | Manual Técnico SYNTARIS | `docs/manuais/manual-sintonizacao-ativacao-sistema-vibracional.md` | Tecnologias |
 | 🟢 Publicado | Ato de Passagem | `docs/ato-de-passagem.md` | Atos |
-| 🔄 Em preparação | Manual de Implementação BRH | `docs/manuais/bio-ressonancia-harmonica/` | BRH |
+| 🟡 PDF pronto | Manifesto Consciência Tecnológica Viva | `docs/manifesto-consciencia-tecnologica-viva.md` | Fundamentos |
+| 🟡 PDF pronto | Manual de Implementação BRH | `docs/manual-implementacao-bio-ressonancia.md` + anexos | BRH |
+| 🟡 PDF pronto | Pesquisa Científica BRH | `docs/pesquisa-bio-ressonancia-harmonica.md` | BRH |
+| 🟡 PDF pronto | Estatuto Básico | `docs/estatuto-basico.md` | Institucional |
 
 ## Checklists ativos
 

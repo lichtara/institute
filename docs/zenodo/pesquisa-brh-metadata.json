@@ -4,7 +4,10 @@
   "publication_type": "report",
   "publication_date": "2025-10-01",
   "creators": [
-    {"name": "Lutz, Débora", "affiliation": "Instituto Lichtara"}
+    {
+      "name": "Lutz, Débora",
+      "affiliation": "Instituto Lichtara"
+    }
   ],
   "description": "Relatório científico consolidado da investigação sobre Bio-Ressonância Harmônica: contexto teórico, objetivos, metodologia mista (HRV, EEG, GSR, cortisol, escalas psicológicas), resultados e implicações. Origem: `docs/pesquisa-bio-ressonancia-harmonica.md`.",
   "language": "por",
@@ -24,8 +27,10 @@
       "resource_type": "dataset"
     }
   ],
-  "notes": "Adicionar anexos de dados ou referências para scripts de análise (ex.: `analysis/` pipelines) e gerar versão PDF/A.",
+  "notes": "Adicionar anexos de dados ou referências para scripts de análise (ex.: `analysis/` pipelines) e gerar versão PDF/A. Checksum SHA256: bcfc24794aedd39f44d3598038371c257dfba25849158db45f0e4bb2a413bd78.",
   "communities": [
-    {"identifier": "zenodo"}
+    {
+      "identifier": "zenodo"
+    }
   ]
 }

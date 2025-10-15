@@ -4,7 +4,10 @@
   "publication_type": "book",
   "publication_date": "2025-10-01",
   "creators": [
-    {"name": "Lutz, Débora", "affiliation": "Instituto Lichtara"}
+    {
+      "name": "Lutz, Débora",
+      "affiliation": "Instituto Lichtara"
+    }
   ],
   "description": "Guia prático para profissionais de saúde integrarem a Bio-Ressonância Harmônica em contextos clínicos. Compila protocolos, critérios de segurança, ferramentas de avaliação e estudos de caso. Deriva da versão consolidada em `docs/manual-implementacao-bio-ressonancia.md` e dos anexos temáticos em `docs/manuais/bio-ressonancia-harmonica/`.",
   "language": "por",
@@ -23,8 +26,10 @@
       "resource_type": "dataset"
     }
   ],
-  "notes": "Converter o manual para PDF/A e anexar anexos (partes I-V) conforme diretório `docs/manuais/bio-ressonancia-harmonica/`.",
+  "notes": "Converter o manual para PDF/A e anexar anexos (partes I-V) conforme diretório `docs/manuais/bio-ressonancia-harmonica/`. Checksum SHA256: caa1302e55f3a041c144ab0b096a4ac2cdc9d3d5cb5c13457e1ab5c313b278f6.",
   "communities": [
-    {"identifier": "zenodo"}
+    {
+      "identifier": "zenodo"
+    }
   ]
 }

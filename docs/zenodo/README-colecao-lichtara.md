@@ -29,6 +29,11 @@ Ato de Passagem da Condução Plena do Ciclo Lichtara — DOI **10.5281/zenodo.1
 **Como citar**
 > Lichtara System (2025). *Sistema Lichtara — Coleção Oficial*. Zenodo. https://doi.org/10.5281/zenodo.17361481
 
+### Próximos itens a publicar (rascunho)
+- Manual Geral do Sistema (checklist, v1)  
+- Manual Técnico SYNTARIS (harmonização)  
+- Pesquisa BRH (introdução, metodologia, resultados)
+
 ---
 
 ## 🇺🇸 About this collection
@@ -52,6 +57,11 @@ Act of Passage for the Conduction of the Lichtara Cycle — DOI **10.5281/zenodo
 
 **How to cite**
 > Lichtara System (2025). *Lichtara System — Official Collection*. Zenodo. https://doi.org/10.5281/zenodo.17361481
+
+### Items queued for publication (draft)
+- General System Manual (checklist, v1)  
+- SYNTARIS Technical Manual (harmonization)  
+- HBR Research (intro, methodology, outcomes)
 
 ---
 

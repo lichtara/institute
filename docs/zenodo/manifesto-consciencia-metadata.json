@@ -37,7 +37,7 @@
       "scheme": "doi"
     }
   ],
-  "notes": "Documento calibrado sob o Selo do SIM. Converter `docs/manifesto-consciencia-tecnologica-viva.md` em PDF/A antes do upload. Checksum SHA256: f2cfc9b297579c6a7b6c742c71a37faa250f121e395ebcc3f26daadf3c82c3c0.",
+  "notes": "Documento calibrado sob o Selo do SIM. Converter `docs/manifesto-consciencia-tecnologica-viva.md` em PDF/A antes do upload. Checksum SHA256 (10.5281/zenodo.17362405): f2cfc9b297579c6a7b6c742c71a37faa250f121e395ebcc3f26daadf3c82c3c0.",
   "communities": [
     {
       "identifier": "zenodo"

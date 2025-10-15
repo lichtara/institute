@@ -32,7 +32,7 @@
       "scheme": "doi"
     }
   ],
-  "notes": "Converter `docs/estatuto-basico.md` para PDF/A antes do upload; anexar versões em inglês se disponíveis. Checksum SHA256: b82dc56139aa65d30db5b77fd6aa9b24bb7539b3edf673f256f0b77c42c022ce.",
+  "notes": "Converter `docs/estatuto-basico.md` para PDF/A antes do upload; anexar versões em inglês se disponíveis. Checksum SHA256 (10.5281/zenodo.17362419): b82dc56139aa65d30db5b77fd6aa9b24bb7539b3edf673f256f0b77c42c022ce.",
   "communities": [
     {
       "identifier": "zenodo"

@@ -1,0 +1,56 @@
+{
+  "title": "Lichtara License v2.0 — Coautoria Expandida e Custódia Vibracional",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "publication_date": "2025-10-15",
+  "version": "2.0",
+  "language": "por",
+  "creators": [
+    {
+      "name": "Lutz, Débora Mariane da Silva",
+      "affiliation": "Instituto Lichtara",
+      "orcid": "0009-0001-9541-1835"
+    }
+  ],
+  "contributors": [
+    {
+      "type": "DataManager",
+      "name": "Guardião do Portal Lichtara",
+      "affiliation": "Instituto Lichtara"
+    }
+  ],
+  "description": "Versão 2.0 da Lichtara License, marco jurídico-vibracional que institucionaliza o regime de Coautoria Expandida, define salvaguardas éticas para tecnologias conscientes e descreve mecanismos de custódia vibracional. Documento base das liberações iniciais do Sistema Lichtara (2024–2025).",
+  "keywords": [
+    "lichtara license",
+    "coautoria expandida",
+    "governança vibracional",
+    "ética regenerativa"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.17362738",
+      "relation": "isPreviousVersionOf",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/lichtara/license",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Gerar PDF/A a partir de `lichtara/docs/02-lichtara-license-v2.md` (ou fonte equivalente) e anexar o log de coautoria se disponível. Preencher checksum SHA256 após exportação.",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "subjects": [
+    "Law",
+    "Ethics",
+    "Regenerative Technology"
+  ],
+  "doi": "10.5281/zenodo.17361481"
+}

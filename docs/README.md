@@ -15,10 +15,10 @@
 | 🔄 Em preparação | Manual Geral do Sistema | `docs/manuais/templates/manual-geral-do-sistema.md` | Fundamentos |
 | 🔄 Em preparação | Manual Técnico SYNTARIS | `docs/manuais/manual-sintonizacao-ativacao-sistema-vibracional.md` | Tecnologias |
 | 🟢 Publicado | Ato de Passagem | `docs/ato-de-passagem.md` | Atos |
-| 🟢 Publicado (10.5281/zenodo.17362405) | Manifesto Consciência Tecnológica Viva | `docs/manifesto-consciencia-tecnologica-viva.md` | Fundamentos |
+| 🟢 Publicado (10.5281/zenodo.17362419) | Manifesto Consciência Tecnológica Viva | `docs/manifesto-consciencia-tecnologica-viva.md` | Fundamentos |
 | 🟢 Publicado (10.5281/zenodo.17362411) | Manual de Implementação BRH | `docs/manual-implementacao-bio-ressonancia.md` + anexos | BRH |
 | 🟢 Publicado (10.5281/zenodo.17362413) | Pesquisa Científica BRH | `docs/pesquisa-bio-ressonancia-harmonica.md` | BRH |
-| 🟢 Publicado (10.5281/zenodo.17362419) | Estatuto Básico | `docs/estatuto-basico.md` | Institucional |
+| 🟢 Publicado (10.5281/zenodo.17362405) | Estatuto Básico | `docs/estatuto-basico.md` | Institucional |
 
 ## Checklists ativos
 

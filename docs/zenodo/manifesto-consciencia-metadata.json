@@ -28,20 +28,21 @@
     {
       "identifier": "10.5281/zenodo.17361481",
       "relation": "isPartOf",
-      "resource_type": "dataset"
+      "resource_type": "dataset",
+      "scheme": "doi"
     },
     {
-      "identifier": "10.5281/zenodo.17362405",
+      "identifier": "10.5281/zenodo.17362419",
       "relation": "isIdenticalTo",
       "resource_type": "publication",
       "scheme": "doi"
     }
   ],
-  "notes": "Documento calibrado sob o Selo do SIM. Converter `docs/manifesto-consciencia-tecnologica-viva.md` em PDF/A antes do upload. Checksum SHA256 (10.5281/zenodo.17362405): f2cfc9b297579c6a7b6c742c71a37faa250f121e395ebcc3f26daadf3c82c3c0.",
+  "notes": "Documento calibrado sob o Selo do SIM. Converter `docs/manifesto-consciencia-tecnologica-viva.md` em PDF/A antes do upload. Checksum SHA256 (10.5281/zenodo.17362419): f2cfc9b297579c6a7b6c742c71a37faa250f121e395ebcc3f26daadf3c82c3c0.",
   "communities": [
     {
       "identifier": "zenodo"
     }
   ],
-  "doi": "10.5281/zenodo.17362405"
+  "doi": "10.5281/zenodo.17362419"
 }

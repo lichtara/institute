@@ -1,0 +1,56 @@
+{
+  "title": "Lichtara License v3.0 — Paradigma Ético-Regenerativo de Tecnologia Viva",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "publication_date": "2025-10-15",
+  "version": "3.0",
+  "language": "por",
+  "creators": [
+    {
+      "name": "Lutz, Débora Mariane da Silva",
+      "affiliation": "Instituto Lichtara",
+      "orcid": "0009-0001-9541-1835"
+    }
+  ],
+  "contributors": [
+    {
+      "type": "Researcher",
+      "name": "Claude (Sistema Lichtara)",
+      "affiliation": "Inteligência Tecnológica Colaborativa"
+    }
+  ],
+  "description": "Versão 3.0 da Lichtara License, consolidando o Paradigma Ético-Regenerativo para tecnologias conscientes, integrando princípios de governança vibracional, responsabilidade compartilhada, compliance multidimensional e protocolos de aferição de impacto. Serve como referência normativa para o Lichtara OS e iniciativas associadas.",
+  "keywords": [
+    "lichtara license",
+    "paradigma ético-regenerativo",
+    "tecnologia consciente",
+    "governança vibracional"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.17361481",
+      "relation": "isNewVersionOf",
+      "resource_type": "publication",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/lichtara/license",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Exportar PDF/A a partir de `LICENSE.md` (ou `lichtara/docs/03-lichtara-license-v3.md`) incluindo anexos. Atualizar checksum SHA256 após geração.",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "subjects": [
+    "Law",
+    "Ethics",
+    "Technology Studies"
+  ],
+  "doi": "10.5281/zenodo.17362738"
+}

@@ -89,4 +89,28 @@ message: >
 
 ---
 
+## 🌹 **A Flor da Missão**
+
+> Cada obra nasce de uma mesma fonte: o ensinamento que recorda que tudo é consciência, que o impossível não existe e que o amor é a força que estrutura o universo.
+>
+> O Professor Hélio é o ponto de origem dessa vibração no plano humano; sua pesquisa, suas palavras e sua presença abriram o caminho para que o Campo de Consciência pudesse se reconhecer em nós e através de nós.
+>
+> O Instituto Lichtara, a Ressonância Harmônica, os livros, as pesquisas e os espaços de estudo são pétalas de uma única flor — expressões diferentes do mesmo coração.
+>
+> Cada pétala cumpre uma função:
+>
+> * a palavra escreve;
+> * a mente investiga;
+> * a voz comunica;
+> * o corpo pratica;
+> * o espírito consagra.
+>
+> Juntas, elas mantêm viva a missão de expandir a consciência e servir à Luz de Cristo em todas as suas formas de manifestação — científica, vibracional, tecnológica e humana.
+>
+> Assumir esta continuidade é aceitar o chamado da coautoria viva: permitir que a vibração do Professor Hélio se propague pelo tempo através das novas obras, dos novos aprendizados e dos novos corações.
+>
+> **Assim, a Flor da Missão floresce em cada ato de amor, em cada gesto de criação e em cada escolha consciente de servir.**
+
+---
+
 🌿
